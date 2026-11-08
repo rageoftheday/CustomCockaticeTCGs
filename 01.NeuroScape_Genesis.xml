@@ -197,8 +197,8 @@
         <colors />
         <manacost>5</manacost>
         <cmc>5</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] *SWIFT Target player’s mainframe becomes UNSTABLE. (They roll a d20 for each character and program they control. If they roll 10 or below, destroy that character or program.)</text>
@@ -210,8 +210,8 @@
         <colors />
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] *SWIFT Deal 2 *MF damage to any target.</text>
@@ -223,8 +223,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] *SWIFT Deal 4 *MF damage to any target.</text>
@@ -236,8 +236,8 @@
         <colors />
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] Attach to target player's mainframe. On their NETCHECK, System Error deals 2 *MF damage to them.</text>
@@ -249,8 +249,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] *SWIFT Prevent all damage until turn end.</text>
@@ -262,8 +262,8 @@
         <colors />
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] When a player plays a program, they draw 1.</text>
@@ -275,8 +275,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] On NETCHECK, the active player may INDEX 3 PROGRAM. (Reveal the top 3 cards of your cyberdeck. Put 1 program into your hand, then bin the rest.)</text>
@@ -288,8 +288,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] *SWIFT Reboot the abilities of all *HACKER characters you control.</text>
@@ -301,8 +301,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] *SWIFT Target player reveals their hand and you choose a card from it. They discard that card.</text>
@@ -314,8 +314,8 @@
         <colors />
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] *SWIFT Refresh target character. If that character is a *HACKER, put a +1/+1 counter on it.</text>
@@ -327,8 +327,8 @@
         <colors />
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] ADDITIONAL COST [Pay 3 *MF and 3 *BF health.] Install 3 *RAM refreshed. On turn end, destroy 3 *RAM you control.</text>
@@ -340,8 +340,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] If a source would deal *MF damage to you, prevent that damage and put 1 breach counter on Firewall. Whenever you put a breach counter on Firewall, if it has 2 or more, purge it.</text>
@@ -353,8 +353,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] Deal 1 *MF damage to each character target player controls.</text>
@@ -379,8 +379,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] TROJAN (Attach face down on target player's mainframe. You may flip and pay its ability cost to activate on any swift check after the turn it was played, then bin it.) Destroy attacking characters controlled by this player.</text>
@@ -392,8 +392,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] TROJAN (Attach face down on target player's mainframe. You may flip and pay its ability cost to activate on any swift check after the turn it was played, then bin it.) Copy target script on the cache controlled by an opponent.</text>
@@ -405,8 +405,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] TROJAN (Attach face down on target player's mainframe. You may flip and pay its ability cost to activate on any swift check after the turn it was played, then bin it.) If all of this player's *RAM is running or committed, deal 4 *MF damage to them.</text>
@@ -418,8 +418,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] TROJAN (Attach face down on target player's mainframe. You may flip and pay its ability cost to activate on any swift check after the turn it was played, then bin it.) Deal 3 *MF damage to this player for each of their attacking characters.</text>
@@ -431,8 +431,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · HACKER] TROJAN (Attach face down on target player's mainframe. You may flip and pay its ability cost to activate on any swift check after the turn it was played, then bin it.) Change the target(s) of target activated ability on the cache.</text>
@@ -668,8 +668,8 @@
         <colors />
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CYBERNETIC] *SWIFT Until turn end, target character gets +1/+1 and STAMINA. (Character doesn’t run when it attacks.)</text>
@@ -681,8 +681,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · RAVER] Refresh target character and reboot their abilities.</text>
@@ -694,8 +694,8 @@
         <colors />
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CYBERNETIC] *SWIFT Target character is immune to PSYCHOSIS until your next SYSTEM CHECK.</text>
@@ -707,8 +707,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CYBERNETIC] Until turn end, target character you control gets +4/+4 and +5 PSYCHOSIS. If that character is non-*CYBERNETIC, it gets an additional +5 PSYCHOSIS. (When character attacks or runs, roll a d20. If you roll less than its PSYCHOSIS, its attack hits you and this action fails.)</text>
@@ -720,8 +720,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CYBERNETIC] Until turn end, target character you control gets +7/-1 and +8 PSYCHOSIS. If that character is non-*CYBERNETIC, it gets an additional +5 PSYCHOSIS. (When character attacks or runs, roll a d20. If you roll less than its PSYCHOSIS, its attack hits you and this action fails.)</text>
@@ -850,8 +850,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CYBERNETIC] On NETCHECK, the active player may INDEX 3 GEAR. (Reveal the top 3 cards of your cyberdeck. Put 1 gear into your hand, then bin the rest.)</text>
@@ -863,8 +863,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CYBERNETIC] All characters get STAMINA. (Character doesn’t run when it attacks.)</text>
@@ -1100,8 +1100,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CORPO] *SWIFT Put up to 4 target *RAM from your recycle bin into your RAM bank running.</text>
@@ -1113,8 +1113,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CORPO] On your NETCHECK, roll a d20. If you roll 9 or higher, install 1 *RAM running.</text>
@@ -1126,8 +1126,8 @@
         <colors />
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CORPO] Install X *RAM running, where X is your *CORPO synergy.</text>
@@ -1139,8 +1139,8 @@
         <colors />
         <manacost>5</manacost>
         <cmc>5</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CORPO] Name a faction. Destroy all characters of that faction, then you lose 1 *MF and 1 *BF health for each character destroyed this way.</text>
@@ -1152,8 +1152,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CORPO] If a character you control is destroyed by an opponent, its committed *RAM returns to its owner's RAM bank refreshed.</text>
@@ -1165,8 +1165,8 @@
         <colors />
         <manacost>6</manacost>
         <cmc>6</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CORPO] The *RAM cost of non-*CORPO cards is increased by 1 *RAM. (This includes committed character costs.)</text>
@@ -1178,8 +1178,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CORPO] *SWIFT If you would lose the game this turn, instead set your *MF and *BF health to 1 and destroy half of your *RAM, rounded down.</text>
@@ -1191,8 +1191,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CORPO] Whenever a *CORPO character you control is destroyed by an opponent, install 1 *RAM running.</text>
@@ -1204,8 +1204,8 @@
         <colors />
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CORPO / POLITICIAN] *SWIFT Change target(s) of target program.</text>
@@ -1217,8 +1217,8 @@
         <colors />
         <manacost>5</manacost>
         <cmc>5</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CORPO] Put a -1/-1 counter on all characters. Install 2 *RAM running.</text>
@@ -1282,8 +1282,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CORPO] On NETCHECK, the active player may pay 2 *RAM to reveal cards from their cyberdeck until they reveal a *CORPO character. They put it into their hand and shuffle the rest into their cyberdeck.</text>
@@ -1295,8 +1295,8 @@
         <colors />
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · CORPO] On NETCHECK, the player with the most characters in play may install 1 *RAM running. If tied, nothing happens. Each *CORPO character counts as two for this ability.</text>
@@ -1532,8 +1532,8 @@
         <colors />
         <manacost>5</manacost>
         <cmc>5</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · DUSTRUNNER] Destroy target *RAM and target character.</text>
@@ -1545,8 +1545,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · DUSTRUNNER] Run all non-*DUSTRUNNER characters.</text>
@@ -1558,8 +1558,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · DUSTRUNNER] Attach to target player’s mainframe. Whenever they install a *RAM, Growing Unrest deals 1 *MF damage to them.</text>
@@ -1571,8 +1571,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · DUSTRUNNER] ADDITIONAL COST [Run X *DUSTRUNNER characters you control.] Draw X.</text>
@@ -1584,8 +1584,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · DUSTRUNNER] Draw 2.</text>
@@ -1597,8 +1597,8 @@
         <colors />
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · DUSTRUNNER] *SWIFT Put target *DUSTRUNNER character you control into its owner's hand.</text>
@@ -1610,8 +1610,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · DUSTRUNNER] *SWIFT Destroy target *RAM.</text>
@@ -1623,8 +1623,8 @@
         <colors />
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · DUSTRUNNER] *SWIFT Look at the top 5 cards of target opponent's cyberdeck, then put them back in any order.</text>
@@ -1662,8 +1662,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · DUSTRUNNER] On NETCHECK, the active player gains 1 *MF and 1 *BF health for each *DUSTRUNNER character they control.</text>
@@ -1675,8 +1675,8 @@
         <colors />
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · DUSTRUNNER] Whenever a *DUSTRUNNER character attacks, deal 1 *MF damage to the defending player.</text>
@@ -1909,8 +1909,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] If a source would deal *BF damage to you, prevent that damage and put a fracture counter on Amethyst Datashard. Whenever you put a fracture counter on Amethyst Datashard, if it has 2 or more, purge it.</text>
@@ -1922,8 +1922,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] When you play a tarot, gain 1 *MF and 1 *BF health.</text>
@@ -1935,8 +1935,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] When you play a tarot, deal 1 *MF damage to each opponent.</text>
@@ -1948,8 +1948,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] On enter, create a *MF 0/1 Butterfly token character. On your SYSTEM CHECK, double the number of Butterfly token characters you control.</text>
@@ -1961,8 +1961,8 @@
         <colors />
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Draw 1, then discard 1.</text>
@@ -1974,8 +1974,8 @@
         <colors />
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Put target program on the cache on top of it's owner's cyberdeck.</text>
@@ -1987,8 +1987,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Counter target character. REVERSED program</text>
@@ -2000,8 +2000,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Draw 1 and install 1 *RAM running. REVERSED 2 *RAM.</text>
@@ -2013,8 +2013,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Put up to 2 target characters into their owners' hands. REVERSED programs</text>
@@ -2026,8 +2026,8 @@
         <colors />
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Counter target card unless its controller pays 1 *RAM. REVERSED 3 *RAM</text>
@@ -2039,8 +2039,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Put two +1/+1 counters on 2 target characters. When one of these characters is destroyed, destroy the other.</text>
@@ -2052,8 +2052,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Change the target(s) of target program. REVERSED ability</text>
@@ -2065,8 +2065,8 @@
         <colors />
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Target character gets +2/+2 until turn end. REVERSED -2/-2</text>
@@ -2078,8 +2078,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Put target character into its owner's hand. REVERSED on top of its owner's cyberdeck.</text>
@@ -2091,8 +2091,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Name a *RAM cost, then reveal the top card of your cyberdeck. If its *RAM cost is the named cost, install 1 *RAM running. REVERSED draw 2.</text>
@@ -2104,8 +2104,8 @@
         <colors />
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT If a character's attack hits target player this turn, prevent half that damage, rounded down, and deal *MF damage equal to the prevented damage to that character's controller.</text>
@@ -2117,8 +2117,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT ADDITIONAL COST [Destroy a *MYSTIC character you control.] Counter target card.</text>
@@ -2130,8 +2130,8 @@
         <colors />
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] Destroy target character. If you do, its controller creates a *MF 2/2 Revenant token character.</text>
@@ -2143,8 +2143,8 @@
         <colors />
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Target character can't be destroyed this turn. REVERSED program</text>
@@ -2156,8 +2156,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Target character gets +10 PSYCHOSIS until turn end. It must attack this turn if able. REVERSED +15</text>
@@ -2169,8 +2169,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Reveal the top 4 cards of your cyberdeck. Target opponent puts them facedown into 2 piles. Put 1 pile into your hand, then bin the other.</text>
@@ -2182,8 +2182,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT DIVINE 3 (Look at the top 3 cards of your cyberdeck. Put 1 into your hand, then bin the rest.)</text>
@@ -2195,8 +2195,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Run X target characters, where X is the number of tarots played this turn. REVERSED cards</text>
@@ -2208,8 +2208,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Search your cyberdeck for a tarot and reveal it. Put it into your hand, then shuffle. REVERSED program</text>
@@ -2221,8 +2221,8 @@
         <colors />
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Until turn end, whenever a character you control is destroyed by an opponent, destroy target character. REVERSED program</text>
@@ -2234,8 +2234,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] *SWIFT Search your cyberdeck for an environment and reveal it. Put it into your hand, then shuffle.</text>
@@ -2260,8 +2260,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] Prevent all damage. On NETCHECK, add 1 anicca counter to Zen Garden. Then, if it has 5 or more, destroy it. If Zen Garden would leave play, purge it.</text>
@@ -2273,8 +2273,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] On NETCHECK, the active player may purge a character they control to put target *MYSTIC character from their recycle bin into their hand.</text>
@@ -2286,8 +2286,8 @@
         <colors />
         <manacost>7</manacost>
         <cmc>7</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · MYSTIC] On enter, all characters in recycle bins that share a faction with their owner's mainframe are put into play under their owner's control with a SPIRIT counter on them. (Character’s *RAM cost is set to 0. If they would leave play, purge them instead.) When The Spirit Realm leaves play, purge all characters with SPIRIT counters.</text>
@@ -2495,8 +2495,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · THRASHER] On NETCHECK, put 1 mosh counter on Wall of Death. Then, if it has 2 or more mosh counters, purge it. If you do, until turn end, all characters must attack or block if able and all *THRASHER characters get +2/+2.</text>
@@ -2508,8 +2508,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · THRASHER] Destroy target character.</text>
@@ -2521,8 +2521,8 @@
         <colors />
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · THRASHER] Destroy target character. You lose *MF and *BF health equal to its attack value.</text>
@@ -2534,8 +2534,8 @@
         <colors />
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · THRASHER] *SWIFT Destroy target blocking character with defense value of 2 or less.</text>
@@ -2547,8 +2547,8 @@
         <colors />
         <manacost>5</manacost>
         <cmc>5</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · THRASHER] *SWIFT ADDITIONAL COST [Pay X *MF and X *BF health.] Target *THRASHER character gets +X/+0 until turn end. On turn end, destroy it.</text>
@@ -2664,8 +2664,8 @@
         <colors />
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · THRASHER] Whenever a non-*THRASHER character takes *BF damage, destroy them.</text>
@@ -2677,8 +2677,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · THRASHER] Damage can't be prevented.</text>
@@ -2746,8 +2746,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · NANOBOT] Until turn end, *NANOBOT characters you control get +1/+1 and OVERRUN. (Character deals excess damage to defending player when blocked.)</text>
@@ -2759,8 +2759,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · NANOBOT] On NETCHECK, the active player creates a *BF 1/1 *NANOBOT Drone token character.</text>
@@ -2856,8 +2856,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · WONDERLAND] On NETCHECK, the active player may roll a d20. If they control (Alice, Dreamwalker), they roll twice instead. 1–3 | They destroy a character they control, unless they control (Alice, Dreamwalker). 4–17 | They may choose target character and put an INVERT counter on it. If it already has one, remove 1 instead. (Character swaps its attack type.) 18+ | They reveal the top card of their cyberdeck. If it can be played, they set its *RAM cost to 0 and play it; if not, bin it.</text>
@@ -2869,8 +2869,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · WONDERLAND] Attach to target player's mainframe. The following abilities only trigger if your *WONDERLAND synergy is 2 or more: When this becomes attached to a mainframe, if it's an opponent's, deal 1 *MF or 1 *BF damage to them; if it's yours or a teammate's, you gain 1 *MF or 1 *BF health. On your SYSTEM CHECK, attach this to a different mainframe if possible.</text>
@@ -2882,8 +2882,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · WONDERLAND] *SWIFT All characters your opponents control get -1/-1 until turn end. If you control [Alice, Dreamwalker], instead put a -1/-1 counter on these characters.</text>
@@ -2895,8 +2895,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · WONDERLAND] *SWIFT All characters you control get +1/+1 until turn end. If you control [Alice, Dreamwalker], instead put a +1/+1 counter on these characters.</text>
@@ -2908,8 +2908,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program · WONDERLAND] *SWIFT Put an INVERT counter on target character. If it already has one, remove 1 instead. (Character swaps its attack type.)</text>
@@ -2977,8 +2977,8 @@
         <colors />
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program ·] *SWIFT Destroy target cyberware.</text>
@@ -2990,8 +2990,8 @@
         <colors />
         <manacost>6</manacost>
         <cmc>6</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program ·] ADDITIONAL COST [Pay 3 *MF and 3 *BF health.] Take an extra turn after this one. Purge Déjà Vu.</text>
@@ -3016,8 +3016,8 @@
         <colors />
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program ·] *SWIFT Select one — • Destroy target program attached to your mainframe. • Remove all counters on your mainframe.</text>
@@ -3029,8 +3029,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program ·] *SWIFT Destroy target program.</text>
@@ -3042,8 +3042,8 @@
         <colors />
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program ·] Destroy target character.</text>
@@ -3055,8 +3055,8 @@
         <colors />
         <manacost>6</manacost>
         <cmc>6</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program ·] Destroy all characters and programs.</text>
@@ -3068,8 +3068,8 @@
         <colors />
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program ·] Purge all recycle bins.</text>
@@ -3094,8 +3094,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program ·] Attach to target player's mainframe. On their SYSTEM CHECK, they take 2 *MF and 2 *BF damage, then they draw 1.</text>
@@ -3107,8 +3107,8 @@
         <colors />
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program ·] On NETCHECK, the active player may destroy 1 *RAM they control to draw 1.</text>
@@ -3120,8 +3120,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program ·] All characters' base attack values are swapped with their base defense values.</text>
@@ -3133,8 +3133,8 @@
         <colors />
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program ·] There can be any number of environments in play. Environments aren't destroyed when a new environment enters. When Multiverse leaves play, purge all other environments.</text>
@@ -3146,8 +3146,8 @@
         <colors />
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Program</type>
+        <maintype>Program</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[program ·] On NETCHECK, Acid Rain deals 1 *BF damage to all characters.</text>
@@ -3419,8 +3419,8 @@
         <colors />
         <manacost>0</manacost>
         <cmc>0</cmc>
-        <type>RAM</type>
-        <maintype>RAM</maintype>
+        <type>Ram</type>
+        <maintype>Ram</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>[ram ·]</text>

@@ -254067,7 +254067,7 @@ Retreat Cost: 1</text>
         <type>Pokemon TCG - Pokemon</type>
         <maintype>Pokemon TCG</maintype>
       </prop>
-      <set num="13" rarity="Common">PKENDB85C072D</set>
+      <set num="13" picurl="https://images.pokemontcg.io/sm75/13_hires.png" rarity="Common">PKENDB85C072D</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -254875,7 +254875,7 @@ When you attach this card from your hand to your Active Pokémon, switch that Po
         <maintype>Pokemon TCG</maintype>
       </prop>
       <set num="123" picurl="https://assets.tcgdex.net/en/sm/sm4/123/high.png" rarity="Secret Rare">PKEN550B7032E</set>
-      <set num="70" rarity="Uncommon">PKENF165B4CA5</set>
+      <set num="70" picurl="https://images.pokemontcg.io/sm35/70_hires.png" rarity="Uncommon">PKENF165B4CA5</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -255417,7 +255417,7 @@ Retreat Cost: 0</text>
         <maintype>Pokemon TCG</maintype>
       </prop>
       <set num="106" picurl="https://assets.tcgdex.net/en/swsh/swsh7/106/high.png" rarity="Rare">PKENBAEEDD254</set>
-      <set num="GG19" rarity="Rare">PKEN3D43F1E82</set>
+      <set num="GG19" picurl="https://images.pokemontcg.io/swsh12pt5gg/GG19_hires.png" rarity="Rare">PKEN3D43F1E82</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -255733,8 +255733,8 @@ Retreat Cost: 0</text>
         <maintype>Pokemon TCG</maintype>
       </prop>
       <set num="8" rarity="None">PKENE3B0FD2C4</set>
-      <set num="10" rarity="None">PKEN0745E8D0A</set>
-      <set num="9" rarity="None">PKEN7D429A266</set>
+      <set num="10" picurl="https://images.pokemontcg.io/tk2b/10_hires.png" rarity="None">PKEN0745E8D0A</set>
+      <set num="9" picurl="https://images.pokemontcg.io/tk2a/9_hires.png" rarity="None">PKEN7D429A266</set>
       <set num="8" rarity="None">PKEN15B3A10F6</set>
       <set num="91" picurl="https://assets.tcgdex.net/en/ex/ex1/91/high.png" rarity="Common">PKEN9C1C19423</set>
       <set num="9" rarity="None">PKENA250EF4A3</set>
@@ -256951,7 +256951,7 @@ Retreat Cost: 1</text>
         <maintype>Pokemon TCG</maintype>
       </prop>
       <set num="SWSH009" picurl="https://assets.tcgdex.net/en/swsh/swshp/SWSH009/high.png" rarity="Promo">PKEN0BCAA76FD</set>
-      <set num="SV094" rarity="Shiny rare">PKENA5B72E94B</set>
+      <set num="SV094" picurl="https://images.pokemontcg.io/swsh45sv/SV094_hires.png" rarity="Shiny rare">PKENA5B72E94B</set>
       <set num="147" picurl="https://assets.tcgdex.net/en/swsh/swsh1/147/high.png" rarity="Rare">PKEN0F2BDC13C</set>
       <tablerow>2</tablerow>
     </card>
@@ -257646,7 +257646,7 @@ Retreat Cost: 2</text>
         <type>Pokemon TCG - Pokemon</type>
         <maintype>Pokemon TCG</maintype>
       </prop>
-      <set num="11" rarity="None">PKEN581C617A2</set>
+      <set num="11" picurl="https://images.pokemontcg.io/mcd18/11_hires.png" rarity="None">PKEN581C617A2</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -264141,7 +264141,7 @@ Retreat Cost: 2</text>
         <maintype>Pokemon TCG</maintype>
       </prop>
       <set num="031" picurl="https://assets.tcgdex.net/en/swsh/swsh9/031/high.png" rarity="Rare">PKEN672EB89F8</set>
-      <set num="GG05" rarity="Rare">PKEN3D43F1E82</set>
+      <set num="GG05" picurl="https://images.pokemontcg.io/swsh12pt5gg/GG05_hires.png" rarity="Rare">PKEN3D43F1E82</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -264426,7 +264426,7 @@ Retreat Cost: 2</text>
         <maintype>Pokemon TCG</maintype>
       </prop>
       <set num="108" picurl="https://assets.tcgdex.net/en/swsh/swsh8/108/high.png" rarity="Holo Rare">PKEN5A4B91A25</set>
-      <set num="GG09" rarity="Rare">PKEN3D43F1E82</set>
+      <set num="GG09" picurl="https://images.pokemontcg.io/swsh12pt5gg/GG09_hires.png" rarity="Rare">PKEN3D43F1E82</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -265714,7 +265714,7 @@ Retreat Cost: 2</text>
         <type>Pokemon TCG - Pokemon</type>
         <maintype>Pokemon TCG</maintype>
       </prop>
-      <set num="SM219" rarity="Promo">PKEN89703B3E2</set>
+      <set num="SM219" picurl="https://images.pokemontcg.io/smp/SM219_hires.png" rarity="Promo">PKEN89703B3E2</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -266699,7 +266699,7 @@ Retreat Cost: 1</text>
         <type>Pokemon TCG - Pokemon</type>
         <maintype>Pokemon TCG</maintype>
       </prop>
-      <set num="11" rarity="None">PKENCC832DB07</set>
+      <set num="11" picurl="https://images.pokemontcg.io/mcd19/11_hires.png" rarity="None">PKENCC832DB07</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -266810,7 +266810,7 @@ Retreat Cost: 3</text>
         <type>Pokemon TCG - Pokemon</type>
         <maintype>Pokemon TCG</maintype>
       </prop>
-      <set num="46" rarity="Common">PKENF165B4CA5</set>
+      <set num="46" picurl="https://images.pokemontcg.io/sm35/46_hires.png" rarity="Common">PKENF165B4CA5</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -267162,7 +267162,7 @@ Retreat Cost: 2</text>
       </prop>
       <set num="20" picurl="https://assets.tcgdex.net/en/swsh/swsh6/20/high.png" rarity="Holo Rare V">PKEN401D1764E</set>
       <set num="161" picurl="https://assets.tcgdex.net/en/swsh/swsh6/161/high.png" rarity="Ultra Rare">PKEN401D1764E</set>
-      <set num="TG14" rarity="Holo Rare V">PKEND6EC1638A</set>
+      <set num="TG14" picurl="https://images.pokemontcg.io/swsh12tg/TG14_hires.png" rarity="Holo Rare V">PKEND6EC1638A</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -268728,7 +268728,7 @@ Retreat Cost: 1</text>
         <type>Pokemon TCG - Pokemon</type>
         <maintype>Pokemon TCG</maintype>
       </prop>
-      <set num="SWSH305" rarity="Promo">PKEN0BCAA76FD</set>
+      <set num="SWSH305" picurl="https://images.pokemontcg.io/swshp/SWSH305_hires.png" rarity="Promo">PKEN0BCAA76FD</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -269766,7 +269766,7 @@ Retreat Cost: 2</text>
         <type>Pokemon TCG - Pokemon</type>
         <maintype>Pokemon TCG</maintype>
       </prop>
-      <set num="55" rarity="Common">PKENDB85C072D</set>
+      <set num="55" picurl="https://images.pokemontcg.io/sm75/55_hires.png" rarity="Common">PKENDB85C072D</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -269947,7 +269947,7 @@ Retreat Cost: 2</text>
         <type>Pokemon TCG - Pokemon</type>
         <maintype>Pokemon TCG</maintype>
       </prop>
-      <set num="36" rarity="Common">PKENF165B4CA5</set>
+      <set num="36" picurl="https://images.pokemontcg.io/sm35/36_hires.png" rarity="Common">PKENF165B4CA5</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -270462,7 +270462,7 @@ Retreat Cost: 1</text>
         <type>Pokemon TCG - Pokemon</type>
         <maintype>Pokemon TCG</maintype>
       </prop>
-      <set num="1" rarity="None">PKEN15B3A10F6</set>
+      <set num="1" picurl="https://images.pokemontcg.io/tk1a/1_hires.png" rarity="None">PKEN15B3A10F6</set>
       <set num="49" picurl="https://assets.tcgdex.net/en/ex/ex3/49/high.png" rarity="Common">PKENB90544F13</set>
       <tablerow>2</tablerow>
     </card>
@@ -270757,7 +270757,7 @@ Retreat Cost: 2</text>
         <maintype>Pokemon TCG</maintype>
       </prop>
       <set num="SWSH195" picurl="https://assets.tcgdex.net/en/swsh/swshp/SWSH195/high.png" rarity="Promo">PKEN0BCAA76FD</set>
-      <set num="GG35" rarity="Ultra Rare">PKEN3D43F1E82</set>
+      <set num="GG35" picurl="https://images.pokemontcg.io/swsh12pt5gg/GG35_hires.png" rarity="Ultra Rare">PKEN3D43F1E82</set>
       <set num="014" picurl="https://assets.tcgdex.net/en/swsh/swsh12.5/014/high.png" rarity="Holo Rare VSTAR">PKEN5AF4CC005</set>
       <tablerow>2</tablerow>
     </card>
@@ -271126,7 +271126,7 @@ Damage: 20</text>
         <type>Pokemon TCG - Pokemon</type>
         <maintype>Pokemon TCG</maintype>
       </prop>
-      <set num="4" rarity="None">PKEN972D43BE3</set>
+      <set num="4" picurl="https://images.pokemontcg.io/mcd17/4_hires.png" rarity="None">PKEN972D43BE3</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -272112,7 +272112,7 @@ Retreat Cost: 1</text>
         <maintype>Pokemon TCG</maintype>
       </prop>
       <set num="SWSH082" picurl="https://assets.tcgdex.net/en/swsh/swshp/SWSH082/high.png" rarity="Promo">PKEN0BCAA76FD</set>
-      <set num="SV097" rarity="Shiny rare">PKENA5B72E94B</set>
+      <set num="SV097" picurl="https://images.pokemontcg.io/swsh45sv/SV097_hires.png" rarity="Shiny rare">PKENA5B72E94B</set>
       <set num="150" picurl="https://assets.tcgdex.net/en/swsh/swsh3/150/high.png" rarity="Common">PKEN0E38D40A2</set>
       <tablerow>2</tablerow>
     </card>
@@ -272722,7 +272722,7 @@ Retreat Cost: 1</text>
         <type>Pokemon TCG - Pokemon</type>
         <maintype>Pokemon TCG</maintype>
       </prop>
-      <set num="SV099" rarity="Shiny rare">PKENA5B72E94B</set>
+      <set num="SV099" picurl="https://images.pokemontcg.io/swsh45sv/SV099_hires.png" rarity="Shiny rare">PKENA5B72E94B</set>
       <set num="151" picurl="https://assets.tcgdex.net/en/swsh/swsh2/151/high.png" rarity="Common">PKEN243AB3117</set>
       <tablerow>2</tablerow>
     </card>
@@ -273712,7 +273712,7 @@ Retreat Cost: 1</text>
         <type>Pokemon TCG - Pokemon</type>
         <maintype>Pokemon TCG</maintype>
       </prop>
-      <set num="38" rarity="Common">PKENF165B4CA5</set>
+      <set num="38" picurl="https://images.pokemontcg.io/sm35/38_hires.png" rarity="Common">PKENF165B4CA5</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -273896,7 +273896,7 @@ Effect: Put 1 of your Colorless Pokémon that has any damage counters on it and 
       </prop>
       <set num="168" picurl="https://assets.tcgdex.net/en/swsh/swsh9/168/high.png" rarity="Ultra Rare">PKEN672EB89F8</set>
       <set num="177" picurl="https://assets.tcgdex.net/en/swsh/swsh9/177/high.png" rarity="Secret Rare">PKEN672EB89F8</set>
-      <set num="GG58" rarity="Ultra Rare">PKEN3D43F1E82</set>
+      <set num="GG58" picurl="https://images.pokemontcg.io/swsh12pt5gg/GG58_hires.png" rarity="Ultra Rare">PKEN3D43F1E82</set>
       <set num="134" picurl="https://assets.tcgdex.net/en/swsh/swsh9/134/high.png" rarity="Uncommon">PKEN672EB89F8</set>
       <tablerow>2</tablerow>
     </card>
@@ -276159,7 +276159,7 @@ Retreat Cost: 2</text>
         <type>Pokemon TCG - Pokemon</type>
         <maintype>Pokemon TCG</maintype>
       </prop>
-      <set num="SV116" rarity="Shiny rare V">PKENA5B72E94B</set>
+      <set num="SV116" picurl="https://images.pokemontcg.io/swsh45sv/SV116_hires.png" rarity="Shiny rare V">PKENA5B72E94B</set>
       <set num="114" picurl="https://assets.tcgdex.net/en/swsh/swsh3/114/high.png" rarity="Holo Rare V">PKEN0E38D40A2</set>
       <tablerow>2</tablerow>
     </card>
@@ -276593,7 +276593,7 @@ Retreat Cost: 2</text>
         <maintype>Pokemon TCG</maintype>
       </prop>
       <set num="87" picurl="https://assets.tcgdex.net/en/swsh/swsh5/87/high.png" rarity="Holo Rare V">PKEN5F0668931</set>
-      <set num="TG20" rarity="Ultra Rare">PKEN4AE6D034F</set>
+      <set num="TG20" picurl="https://images.pokemontcg.io/swsh9tg/TG20_hires.png" rarity="Ultra Rare">PKEN4AE6D034F</set>
       <set num="152" picurl="https://assets.tcgdex.net/en/swsh/swsh5/152/high.png" rarity="Ultra Rare">PKEN5F0668931</set>
       <set num="153" picurl="https://assets.tcgdex.net/en/swsh/swsh5/153/high.png" rarity="Ultra Rare">PKEN5F0668931</set>
       <tablerow>2</tablerow>
@@ -277077,7 +277077,7 @@ Retreat Cost: 0</text>
         <type>Pokemon TCG - Pokemon</type>
         <maintype>Pokemon TCG</maintype>
       </prop>
-      <set num="31" rarity="Uncommon">PKENF165B4CA5</set>
+      <set num="31" picurl="https://images.pokemontcg.io/sm35/31_hires.png" rarity="Uncommon">PKENF165B4CA5</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -278047,7 +278047,7 @@ Retreat Cost: 2</text>
         <type>Pokemon TCG - Pokemon</type>
         <maintype>Pokemon TCG</maintype>
       </prop>
-      <set num="9" rarity="None">PKEN581C617A2</set>
+      <set num="9" picurl="https://images.pokemontcg.io/mcd18/9_hires.png" rarity="None">PKEN581C617A2</set>
       <tablerow>2</tablerow>
     </card>
     <card>

@@ -1,0 +1,3443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>NSCP</name>
+      <longname>NeuroScape</longname>
+      <settype>NeuroScape</settype>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>HEX, CODEMANCER</name>
+      <set rarity="quantum rare" num="1" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/462c87e3-1c4d-4583-a689-af1b16acdd51/7d9460afaf7d41d98f6e24f8a9e0a46d8d0eb4d5fabef73856e57734dace8ba6.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · HACKER] On your turn, the first *HACKER program or trojan you play costs 3 *RAM less. Deal X *MF damage to target player, where X is double your *HACKER synergy.</text>
+    </card>
+    <card>
+      <name>ADMIN</name>
+      <set rarity="common" num="2" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/3a0b4588-3b7d-4795-8d59-d5752eab616e/846465c54a7be4baf6e364e2f7dbf4f9069bf5e9f939580463df98412c33a38d.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · HACKER] Install 1 *RAM running.</text>
+    </card>
+    <card>
+      <name>CODER</name>
+      <set rarity="common" num="3" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/58fa2817-dce4-4b38-9ec0-db4aff2ee275/53044664827253afb7b011c9a412a2a13ca73afd60c4af27ae3d6f1767381cbd.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · HACKER] INDEX 3 *HACKER PROGRAM (Reveal the top 3 cards of your cyberdeck. Put 1 *HACKER program into your hand, then bin the rest.)</text>
+    </card>
+    <card>
+      <name>SCRIPT KIDDIE</name>
+      <set rarity="uncommon" num="4" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/d374babb-b154-4d8b-ad14-19514858a8be/909fcda984910528b50594637ed023f446917763c4b11a3f4c56d6bcaa87f901.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · HACKER] Choose an activated ability of target *HACKER character. That ability and its cost replace CTRL+C. (If that ability contains a non-bracketed character name, replace it with Script Kiddie.)</text>
+    </card>
+    <card>
+      <name>DEEP DIVER</name>
+      <set rarity="uncommon" num="5" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/6f41533e-a1cf-4c2e-a5ed-a9e62423e308/40061e0cb6c9d797bb364eb014e8d0c9e8219bfd8d2e46ab108f376f7397a087.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · HACKER] Until turn end, you may play target *HACKER script in your recycle bin. As it resolves, purge it.</text>
+    </card>
+    <card>
+      <name>DIGITAL SPECTRE</name>
+      <set rarity="common" num="6" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/3c4c1afe-8d8a-4997-8f37-26c2f6751ff3/39afadad00cdeab12e9d74c8eb08912146fe48996669221207d0df683a43f350.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · HACKER] When Digital Spectre’s attack hits a player, it also deals 2 *MF damage to that player. Digital Spectre gets STEALTH until turn end. (Character can’t be blocked.)</text>
+    </card>
+    <card>
+      <name>BLACK HAT</name>
+      <set rarity="uncommon" num="7" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/cf077870-faa4-4d49-bac3-6080d316c424/9c702788a194e5a7cf303ad270fe9f05aa9596863553d334d3e42decd1ab692c.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · HACKER] Put 1 CORRUPTION counter on target opponent's mainframe. (On NETCHECK, the active player takes 1 *MF damage from each CORRUPTION counter on their mainframe.)</text>
+    </card>
+    <card>
+      <name>PHANTOM OS</name>
+      <set rarity="common" num="8" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/38e95da0-8b22-4672-97f0-459b5ec48d26/a188d3a9ec4d239141ff923a3e7f7d4188aa051c111d01104e954eaa5ee6478b.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · A.I. / HACKER] Search your cyberdeck for a virus or trojan and reveal it. Put it into your hand, then shuffle. Purge Phantom OS.</text>
+    </card>
+    <card>
+      <name>ANIMA PROXY</name>
+      <set rarity="uncommon" num="9" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/f4d3be3b-0f9d-41c9-8439-5e35996452e2/a527cf679631bf589bdbbf3d76dbaeb2918d781bdad02b3fcff29545b21fff4d.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · HACKER] Deal 1 *MF damage to target player for each program attached to their mainframe.</text>
+    </card>
+    <card>
+      <name>TAGGER</name>
+      <set rarity="common" num="10" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/fd9f3afc-e12c-4219-93e8-95b450f0f57d/87abe3be766208da35c6469ffadf2ea96233e94ad4654f9269153fe393544e12.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · HACKER / ANARCHIST] Put a +1/+1 counter on another target *HACKER character.</text>
+    </card>
+    <card>
+      <name>SERIAL KILLER</name>
+      <set rarity="uncommon" num="11" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/3d5ed8ac-e1a5-4d92-9bc6-0761cbf05cd5/8c1b0e74d9422dc9036e2b9799c2d43a2c7d590140bca9abd1e27f5a32858cf7.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · HACKER] Move target action on the cache to the top of the cache.</text>
+    </card>
+    <card>
+      <name>THE PRODIGY</name>
+      <set rarity="rare" num="12" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/a6f8cebc-608f-43b5-881e-173024825ca4/8e9a4f985740b37dc836afeefe58ac780c7022e9eb90772927700d45e5d83b82.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · HACKER] Deal X *MF damage to target player, where X is your *HACKER synergy.</text>
+    </card>
+    <card>
+      <name>NOVA, THE WHITE RABBIT</name>
+      <set rarity="rare" num="13" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/02ce98ff-74b8-410a-8671-95e16d3d5f02/44ba9da998e4f25875a1bfa475585c53c64402f0800a51b7f2bd2814dcccb2fd.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · WONDERLAND / HACKER] Draw 1. Search your cyberdeck for a *HACKER or *WONDERLAND card and reveal it. Put it into your hand, then shuffle. Purge Nova, the White Rabbit.</text>
+    </card>
+    <card>
+      <name>BLUE SCREEN OF DEATH</name>
+      <set rarity="uncommon" num="14" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/189cfefe-3ec7-411a-9ac0-667709f0613c/c09a06543436d3867b60e21be75aaaa49087792280ff816ded6fd6630fada3b8.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] *SWIFT Target player’s mainframe becomes UNSTABLE. (They roll a d20 for each character and program they control. If they roll 10 or below, destroy that character or program.)</text>
+    </card>
+    <card>
+      <name>OVERLOAD MK. I</name>
+      <set rarity="common" num="15" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/d1aabcc8-f293-46c5-b945-c8e10e4d7ebc/65751aba54da4880cb38ca5a82a5bcf27890984228c92feb84faded6cea436cc.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] *SWIFT Deal 2 *MF damage to any target.</text>
+    </card>
+    <card>
+      <name>OVERLOAD MK. II</name>
+      <set rarity="common" num="16" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/bdf192ef-83ab-4904-90a7-cd0b7cdad16b/06ed0907a0abdf6830975cd5c04bf9f52c23ce24842397f336dc095ca5105137.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] *SWIFT Deal 4 *MF damage to any target.</text>
+    </card>
+    <card>
+      <name>SYSTEM ERROR</name>
+      <set rarity="rare" num="17" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/538f04c0-6e64-4bdd-b767-b2dbc68052d4/63d3f9507740c2cd452faa7c29c0c38ccb64a0bc5979c3768e9a3db5c32be34c.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] Attach to target player's mainframe. On their NETCHECK, System Error deals 2 *MF damage to them.</text>
+    </card>
+    <card>
+      <name>QUANTUM ENCRYPTION</name>
+      <set rarity="uncommon" num="18" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/9904cdfa-fb57-4115-81b6-f4c6802c3623/15be9614cbc956f6901921297561d338f8314bdeaee1a4c1776752bb9948a93c.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] *SWIFT Prevent all damage until turn end.</text>
+    </card>
+    <card>
+      <name>THE NET</name>
+      <set rarity="quantum rare" num="19" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/c8d2be7e-3a4e-4f6c-ba8e-f94c40f3751b/f6116e0518f86cd2101a749aeafbc6f044815123a850be1fe15b93e4306ce787.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] When a player plays a program, they draw 1.</text>
+    </card>
+    <card>
+      <name>THE GRID</name>
+      <set rarity="common" num="20" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/11bd1619-6eb4-462e-953a-482258f87a99/010272d84525ca0c0576718e3a8a9d80206bd2670fefc88668afb7acdab6cc26.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] On NETCHECK, the active player may INDEX 3 PROGRAM. (Reveal the top 3 cards of your cyberdeck. Put 1 program into your hand, then bin the rest.)</text>
+    </card>
+    <card>
+      <name>HACKATHON</name>
+      <set rarity="common" num="21" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/bc4124e0-3cb2-427a-bab2-57471171f056/77f75cbdd5ceaa9eb8d699456f5cca33352e86624dfed8f1f5d631508c0c8b12.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] *SWIFT Reboot the abilities of all *HACKER characters you control.</text>
+    </card>
+    <card>
+      <name>PHISHING</name>
+      <set rarity="common" num="22" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/29ee1174-f6e0-43f1-91ff-d44688bf7e11/883d4ec3e204c911bbfa2420ba926aa06aa7593568348bd859b75342e326fcdc.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] *SWIFT Target player reveals their hand and you choose a card from it. They discard that card.</text>
+    </card>
+    <card>
+      <name>BINARY BLAST</name>
+      <set rarity="common" num="23" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/d62179fa-8ec4-4d4c-ba2d-1dd9bba85adb/66821514d3c3a8524247c88151ad13adc6a4ecc461e0731e371bcdfc2b8a63cb.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] *SWIFT Refresh target character. If that character is a *HACKER, put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>HYPERCLOCK</name>
+      <set rarity="rare" num="24" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/fb055aad-5691-4199-bd2e-0062e8817d10/2aca8ce9ab2d3e2c446cb124184f5369ef281b3c300ba0e3d2fd3c981ad8dcef.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] ADDITIONAL COST [Pay 3 *MF and 3 *BF health.] Install 3 *RAM refreshed. On turn end, destroy 3 *RAM you control.</text>
+    </card>
+    <card>
+      <name>FIREWALL</name>
+      <set rarity="uncommon" num="25" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/47eaaa21-e06e-456c-947a-9258157c85e4/5a2d6f99695b3cdc13d54c7c9b3cda2af975d98b5fac9a886f28f2f1498067f6.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] If a source would deal *MF damage to you, prevent that damage and put 1 breach counter on Firewall. Whenever you put a breach counter on Firewall, if it has 2 or more, purge it.</text>
+    </card>
+    <card>
+      <name>STATIC BLAST</name>
+      <set rarity="common" num="26" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/63f6c83a-f307-46a7-b6c9-2e016c1c88cd/771e17d5b216f0b6086ee2a07d9960eab02b90776138c5c1158396d4582a76bd.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] Deal 1 *MF damage to each character target player controls.</text>
+    </card>
+    <card>
+      <name>CORTEX CRAB</name>
+      <set rarity="uncommon" num="27" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/beca8aeb-a1fe-4d0c-8890-4e14521879db/9fa1d4dd75792f335730982961e36ca0218f0f48b85b34f2c70711663adc5b6e.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · HACKER] MALICIOUS (Attach to any target character.) When Cortex Crab becomes attached to a character an opponent controls, refresh that character and reboot its abilities. You control attached character and its attack type is *MF. On turn end, destroy Cortex Crab.</text>
+    </card>
+    <card>
+      <name>FATAL ERROR 75</name>
+      <set rarity="rare" num="28" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/391a83d4-5ca3-4d4f-9c90-06ba6ee7f108/00ce906bcd5e741494088f35bb31d7f28ae8ba969a070d30e99a4d41b7a49b53.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] TROJAN (Attach face down on target player's mainframe. You may flip and pay its ability cost to activate on any swift check after the turn it was played, then bin it.) Destroy attacking characters controlled by this player.</text>
+    </card>
+    <card>
+      <name>RUBBER DUCKY</name>
+      <set rarity="uncommon" num="29" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/e536dbeb-35b8-4cd2-b916-0860dbfb8792/82a36c9cea410d82060d48119126000c341de3a121e964d529b53b0dcfabf348.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] TROJAN (Attach face down on target player's mainframe. You may flip and pay its ability cost to activate on any swift check after the turn it was played, then bin it.) Copy target script on the cache controlled by an opponent.</text>
+    </card>
+    <card>
+      <name>MEMORY LEAK</name>
+      <set rarity="common" num="30" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/9109471f-7635-4fa6-b777-5f8ee66732a0/29639c1c65ea7c3a176d4a20d686db807a1e31d39f566a23717816568d8d76eb.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] TROJAN (Attach face down on target player's mainframe. You may flip and pay its ability cost to activate on any swift check after the turn it was played, then bin it.) If all of this player's *RAM is running or committed, deal 4 *MF damage to them.</text>
+    </card>
+    <card>
+      <name>POWER SPIKE</name>
+      <set rarity="uncommon" num="31" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/ae9d640e-b2c0-4eec-84b5-da1768cbeb20/3badf014f7c0b5ebf98241725c961fbc3ef69cd08be1fd1f68b5ad631c838c45.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] TROJAN (Attach face down on target player's mainframe. You may flip and pay its ability cost to activate on any swift check after the turn it was played, then bin it.) Deal 3 *MF damage to this player for each of their attacking characters.</text>
+    </card>
+    <card>
+      <name>REDIRECT</name>
+      <set rarity="uncommon" num="32" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/a998fc2a-dfed-42f7-b733-dab3fa36c641/d0825e43f9dd535a1290944e6e42d4624047a642204773a031022604fdaa807a.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · HACKER] TROJAN (Attach face down on target player's mainframe. You may flip and pay its ability cost to activate on any swift check after the turn it was played, then bin it.) Change the target(s) of target activated ability on the cache.</text>
+    </card>
+    <card>
+      <name>SCRAPPER</name>
+      <set rarity="common" num="33" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/89279587-794a-4602-8d08-785b75aa9f47/0bc159516ffca0ad6f2c6ff7fdc160486a2126e40fb8ee15ff9164481c71ba2c.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CYBERNETIC] Install 1 *RAM running.</text>
+    </card>
+    <card>
+      <name>DUMPSTER DIVER</name>
+      <set rarity="common" num="34" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/2c13b064-5d3a-4489-8b1f-4d55d9c39c04/13e933471c7057827874c4c8d6df2fc021ed11796d7676ee5bc24976c6e7f3dd.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CYBERNETIC] Put target gear from your recycle bin into your hand.</text>
+    </card>
+    <card>
+      <name>LUG NUT</name>
+      <set rarity="uncommon" num="35" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/11fc2d4c-e24a-4556-baef-42ecf2b27838/4c1583613ea1fe587e14d15133758ef6ae0523f996a4824eb2c986aba33670c6.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CYBERNETIC / ANIMAL] Target character with 3 or less defense can't block this turn.</text>
+    </card>
+    <card>
+      <name>VIRTUAL KID</name>
+      <set rarity="common" num="36" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/202d92fe-e5df-4b04-9a6e-7e499a8385bf/290c09cd87331147306cf0853aad5d0eabc409dcd2733484a35db0a725b921c0.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CYBERNETIC]</text>
+    </card>
+    <card>
+      <name>BLACKOUT BOYS</name>
+      <set rarity="common" num="37" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/011d3fc1-6fab-4791-bf59-fc6a80a465b4/608c0abd301c91c0ac0e95b642879274e68ded33fe2204dab124bacc4be70a98.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CYBERNETIC] Blackout Boys gets +1/+0 for each other [Blackout Boys] you control.</text>
+    </card>
+    <card>
+      <name>CRYOBLADE ASSASSIN</name>
+      <set rarity="uncommon" num="38" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/94a13b0b-612b-44b0-bc6e-0290cf234401/51376d77f038cb54d5633a623aafafceeefe0515e4326b9551a55028fdf0eae2.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CYBERNETIC] Cryoblade Assassin gets STEALTH until turn end. (Character can’t be blocked except by characters with VISION.)</text>
+    </card>
+    <card>
+      <name>THE PLUG</name>
+      <set rarity="common" num="39" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/240abe8f-929a-4bb6-b6b8-872033a7cc56/5a97db12de641ebeb5999818c04effd777f9338bb34f0f0267762812effff4d2.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CYBERNETIC] Search your cyberdeck for a drug and reveal it. Put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>IRON MAIDEN</name>
+      <set rarity="uncommon" num="40" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/8ac649de-1476-4db0-adec-9d8d09ad53e2/7c7259be7eacd52e3f0158d8ba3e61c809a895c0d87ef578e57a88a37c898a49.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CYBERNETIC / THRASHER] Until turn end, Iron Maiden gets +2/+0 and, whenever her attack hits a character, she may also deal that much damage to another target character.</text>
+    </card>
+    <card>
+      <name>ROGUE VALKYRIE</name>
+      <set rarity="rare" num="41" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/138219c0-06f3-44de-b02b-1cb418c690c9/cfe3c87b51a3210592de58f6182fb165ab45600929720c9353948fd8b8a8f02e.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CYBERNETIC / MECH] Deal 2 *BF damage to target character.</text>
+    </card>
+    <card>
+      <name>BOONYEN, WARDRIVER</name>
+      <set rarity="rare" num="42" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/5806a128-2e44-4fe4-a275-2a3e7c2666b3/7701de9f693c3d287c76b67080b40be05fcb01a33a0cd842b9641ee753e8293f.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>7/8</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CYBERNETIC / ANIMAL] OVERRUN (Character deals excess damage to defending player when blocked.)</text>
+    </card>
+    <card>
+      <name>BACK ALLEY BRUISERS</name>
+      <set rarity="common" num="43" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/c3d25941-ff69-4cfb-9aaa-20b97c44c819/2abd22e9eab20a9ad7eaeba5e96617319a7ee06bdafc3d37c3c2654d2502ce36.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CYBERNETIC] DUEL target character. (Both characters' attacks hit each other.)</text>
+    </card>
+    <card>
+      <name>FACELESS ONI</name>
+      <set rarity="uncommon" num="44" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/fe1f9604-5e6c-43ab-9ce9-9e9cd03b1442/f7663551ed405b893ead027666fcb77ac9e7932973b0b5ee0a3e2a1b02faee46.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CYBERNETIC] DUEL target character. (Both characters' attacks hit each other.) If Faceless Oni destroys that character, deal 3 *BF damage to that character's controller.</text>
+    </card>
+    <card>
+      <name>LASERSAW BERSERKER</name>
+      <set rarity="rare" num="45" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/9771c36f-c100-4ac3-af9d-f54c32bbde1f/06c78f48dc93efcd9b6789756c0c3241dc37210f4bcbaa8685f46c0cdbdcb93d.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>5/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CYBERNETIC] OVERRUN (Character deals excess damage to defending player when blocked.) Until turn end, Lasersaw Berserker gets +2/+0 for each *CYBERNETIC you control. On turn end, destroy him.</text>
+    </card>
+    <card>
+      <name>METAL HEAD</name>
+      <set rarity="quantum rare" num="46" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/ec207828-a706-474a-9d96-f6cc98e15973/663df716b3845eb0db98d556c160960aa9bad5fa095c85df36dbb3b7ab5dee23.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>6/7</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CYBERNETIC / THRASHER] STAMINA (Character doesn’t run when it attacks.) DUEL target character. (Both characters' attacks hit each other.) You may then gain control of target gear attached to them and attach it to Metal Head.</text>
+    </card>
+    <card>
+      <name>ARC, CIRCUIT BREAKER</name>
+      <set rarity="quantum rare" num="47" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/d3ed772b-f0ac-4e77-a9ab-833544869315/a324259d855418cbdf044fe0d9ce82ae2ee0ba4468e7abc0cf2dde3078c08102.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CYBERNETIC] Deal 1 *MF damage to characters opponents control. Until turn end, *CYBERNETIC characters you control get OVERRUN and +2/+0 for each cyberware attached to them.</text>
+    </card>
+    <card>
+      <name>EXTERMINATOR</name>
+      <set rarity="common" num="48" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/1001a176-a381-42a9-be88-03ef67bdf944/e326e7da06ef02af529f9007f10b42f169319089021dae2d327b685ac2a2ba1f.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CYBERNETIC] Deal 1 *BF damage to all characters except [Exterminator].</text>
+    </card>
+    <card>
+      <name>STIM PACK</name>
+      <set rarity="common" num="49" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/1e5b033a-fba1-42ac-ad70-e4fb59136cf7/2133cea4ca5d900c4bc2e80e7e9f54d7d772badc9de104e3f4c99c857fc2abef.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CYBERNETIC] *SWIFT Until turn end, target character gets +1/+1 and STAMINA. (Character doesn’t run when it attacks.)</text>
+    </card>
+    <card>
+      <name>TIME</name>
+      <set rarity="rare" num="50" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/def7475e-80f7-4f96-9164-01b90fbca60c/7bb1fd9c392be0c4717d649a9cb0b607856c5ecc72bb7ea327d438460f192f71.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · RAVER] Refresh target character and reboot their abilities.</text>
+    </card>
+    <card>
+      <name>CLARITEX</name>
+      <set rarity="common" num="51" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/d2899192-b0f0-4627-805d-e367c3a2162d/578d4d0c3648ac1284adb956e795c1fe1b7031150407eb105fa9d7541f29b8b5.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CYBERNETIC] *SWIFT Target character is immune to PSYCHOSIS until your next SYSTEM CHECK.</text>
+    </card>
+    <card>
+      <name>MEGAROIDS, KIWI KRUSH</name>
+      <set rarity="uncommon" num="52" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/b7f56830-c78c-48a8-b013-53bbb4c9d123/0a6263bc2e5d030c5ba8751cfea9f3503ac81799f85c702763a3eb1172aa6eb6.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CYBERNETIC] Until turn end, target character you control gets +4/+4 and +5 PSYCHOSIS. If that character is non-*CYBERNETIC, it gets an additional +5 PSYCHOSIS. (When character attacks or runs, roll a d20. If you roll less than its PSYCHOSIS, its attack hits you and this action fails.)</text>
+    </card>
+    <card>
+      <name>REDLINE</name>
+      <set rarity="rare" num="53" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/266be7ba-83f6-49a1-b4f6-cd5f47bac3d5/d19f904cc6ed65720809b1852711ab358e8809480ca7a072f918ef0362a1d849.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CYBERNETIC] Until turn end, target character you control gets +7/-1 and +8 PSYCHOSIS. If that character is non-*CYBERNETIC, it gets an additional +5 PSYCHOSIS. (When character attacks or runs, roll a d20. If you roll less than its PSYCHOSIS, its attack hits you and this action fails.)</text>
+    </card>
+    <card>
+      <name>FLUX CANNON</name>
+      <set rarity="common" num="54" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/4a830aa1-c719-4a3f-9800-d404d4de5f55/6318dc4afcc74ab5d057fcc8c1b945e9676e241e196ce7164f71d2f11102f413.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · CYBERNETIC] Attached character gets +2/+0 and +5 PSYCHOSIS. (When character attacks or runs, roll a d20. If you roll less than its PSYCHOSIS, its attack hits you and this action fails.) Whenever its attack hits a character, it may also deal that much damage to another target character.</text>
+    </card>
+    <card>
+      <name>SPINAL SPLITTER</name>
+      <set rarity="quantum rare" num="55" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/d6679224-67af-4815-91ab-ac6bfcc8a929/033bddcd03e2ef4a1e7e2127259d389a169afca009f4cd052f06a47ed3861072.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · CYBERNETIC] When attached character attacks, create 2 non-iconic token copies of it that are attacking and running. This character and its copies get +10 PSYCHOSIS, then all make PSYCHOSIS checks for their attacks. On turn end, purge all token copies created this way.</text>
+    </card>
+    <card>
+      <name>RAILGUN</name>
+      <set rarity="uncommon" num="56" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/ff5db5c4-c8c6-4f7b-bb95-5e701c093546/e5e4e7fb6296985d8e28ac6b8eb9d1120ce51320ed936bfbd4cab9af484d0b79.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · CYBERNETIC] Attached character gets +5/+0.</text>
+    </card>
+    <card>
+      <name>RIOT BLADE</name>
+      <set rarity="common" num="57" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/8f020b4c-1b7b-41e8-a0ab-e4a7ed93a1ea/0273da932aa19aaea82589db5016575019b57b6fe1c36a60a500e98c8a427d98.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · CYBERNETIC] Deal 1 *BF damage to any target.</text>
+    </card>
+    <card>
+      <name>DRIVE SAW</name>
+      <set rarity="uncommon" num="58" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/8683c419-1c9f-4d37-8a22-0f88c7dca0ac/568f02d0c59a5d2b56fafdd59a8be284c8418b548ea941c1b945f0460016e206.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · CYBERNETIC] Attached character gets +2/+0 for each *CYBERNETIC you control and +10 PSYCHOSIS. (When character attacks or runs, roll a d20. If you roll less than its PSYCHOSIS, its attack hits you and this action fails.)</text>
+    </card>
+    <card>
+      <name>KNUX</name>
+      <set rarity="uncommon" num="59" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/192ff5bc-3da1-4ea6-ba4d-f6ec9fce73c7/ca022a957ce67652e571af69035d3a3630359eb4725f4c998c5726b7f438b069.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · CYBERNETIC] Attached character gets +4/+0 and +5 PSYCHOSIS. (When character attacks or runs, roll a d20. If you roll less than its PSYCHOSIS, its attack hits you and this action fails.) DUEL target character. (Both characters’ attacks hit each other.)</text>
+    </card>
+    <card>
+      <name>SNATCHER</name>
+      <set rarity="uncommon" num="60" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/72abbaf5-caa4-421f-aa08-ae86837366e0/984166cc866ce84178eb80c29178eedeace61a8245efe42862d72160fdbc42b8.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · CYBERNETIC] Attached character gets +5 PSYCHOSIS. (When character attacks or runs, roll a d20. If you roll less than its PSYCHOSIS, its attack hits you and this action fails.) When its attack hits a player, destroy target *RAM they control and install 1 *RAM running.</text>
+    </card>
+    <card>
+      <name>CLOAKING FIELD</name>
+      <set rarity="uncommon" num="61" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/537c842c-dea1-4a97-a414-4b9c81ac1e0f/2bd85cdc4b3d86d6fb0416ef5e17cb0f81394c6e8fca2e3f16a3cb8fe0644234.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · CYBERNETIC] Attached character gets CLOAKED. (Character can't be targeted.)</text>
+    </card>
+    <card>
+      <name>CODEBREAKER</name>
+      <set rarity="uncommon" num="62" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/bc1b6a83-9114-428a-a804-b1accd8affb2/b7ee454ee6bc57585003d6c13759ea5a1f121b5dcf0bb14e01eaed1030048a79.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · CYBERNETIC] Attached character gets +5 PSYCHOSIS. (When character attacks or runs, roll a d20. If you roll less than its PSYCHOSIS, its attack hits you and this action fails.) Destroy target program.</text>
+    </card>
+    <card>
+      <name>BLACK MARKET</name>
+      <set rarity="uncommon" num="63" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/cb5391ee-470b-48bb-960e-4473fe878486/0590f22b630a5701e8ff9614e75ee39679f785df63235f0046e04a4a24e909d3.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CYBERNETIC] On NETCHECK, the active player may INDEX 3 GEAR. (Reveal the top 3 cards of your cyberdeck. Put 1 gear into your hand, then bin the rest.)</text>
+    </card>
+    <card>
+      <name>MAX GAINZ</name>
+      <set rarity="common" num="64" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/ae3d0b81-6ef6-4ca2-b143-8d45448f6335/30999fd6b479e9744c16cbd602ab69f6c14c09cb363d50d165ed63a0806b2602.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CYBERNETIC] All characters get STAMINA. (Character doesn’t run when it attacks.)</text>
+    </card>
+    <card>
+      <name>UNPAID INTERN</name>
+      <set rarity="common" num="65" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/88add5df-ae68-42e6-916a-6f62f1e03863/17ace1b04db8084b425344b86e7c9d44650e3ca63540f47ca6e3e3378b663ae6.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO]</text>
+    </card>
+    <card>
+      <name>EXECUTIVE</name>
+      <set rarity="common" num="66" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/88b93ac4-7cd6-4f81-8dcb-563bb4c55b35/ecb370f40ca10156fce4d1926189e6cd215ccd20f40ef654e54db074db2b2ad9.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO] Install 1 *RAM running.</text>
+    </card>
+    <card>
+      <name>TRUSTFUND BABY</name>
+      <set rarity="common" num="67" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/922a3d65-a5f5-42ff-a3db-a32166f27f3f/5c274e24c4e08647b34d06fa54c868c081fc1c7e2c9358cd25c6aaf774146828.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO] On enter, install 1 *RAM running.</text>
+    </card>
+    <card>
+      <name>SEEKER DRONES</name>
+      <set rarity="common" num="68" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/3408c423-f8e6-432e-8fff-7e87fcd403bf/3ab87a50e9176156c0f3fdbd2579377af62f8f8f4c780cceb9e8109ded6955b0.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO / ROBOT] Destroy Seeker Drones. If you do, deal 2 *BF damage to any target.</text>
+    </card>
+    <card>
+      <name>ARMS DEALER</name>
+      <set rarity="common" num="69" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/fab833a5-8e4f-43e3-ba48-37a2f906b4fb/7bdcb30fc505fc5c04da907c99efc4cfd2109463749b023c776f9e2f1282b81a.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO] INDEX 3 GEAR (Reveal the top 3 cards of your cyberdeck. Put 1 gear into your hand, then bin the rest.)</text>
+    </card>
+    <card>
+      <name>ACPD DRONES</name>
+      <set rarity="common" num="70" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/ecc9914d-7879-46ff-9015-0c58a75cb31b/c6b34eae776c5b571a99dd01893ea7ddc9fdf7f2c5a5397c68c80e09287357d0.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO / ROBOT] Run target character.</text>
+    </card>
+    <card>
+      <name>RIOT POLICE</name>
+      <set rarity="common" num="71" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/e3f8d3f3-634f-4b81-b4c2-1776920cee78/27d11559dbf26607c2cb10e58136e59450b0cdd9350d1383dcb7d9053527cacc.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/5</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO] Search your cyberdeck for [Riot Police] and reveal it. Put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>BOARDROOM SHARK</name>
+      <set rarity="uncommon" num="72" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/63df8026-7eed-4a33-99a9-de4779b0ff77/39cc11cce46bc23331ef380d65e0f40f8a658ffa2907f95569b5808385552a4d.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO] Destroy target character that has taken damage this turn.</text>
+    </card>
+    <card>
+      <name>YES MAN</name>
+      <set rarity="uncommon" num="73" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/cf331915-54d5-4018-96ac-22635b683994/cef697af11a120669ee060abe909dd6ed5e90f8c9bdf81ced5c1fd89fb660f1d.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO] Counter target program that targets an action on the cache. Put a -1/-1 counter on Yes Man.</text>
+    </card>
+    <card>
+      <name>VENTURE CAPITALIST</name>
+      <set rarity="rare" num="74" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/420e5511-e5b0-4aa8-8e5c-3e9ca7363f5e/2158f5c81e781ee34adae9bd06bce93559dd518fdc6934076f648b0901b24f68.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO] Venture Capitalist enters play with 1 interest counter on her. On your NETCHECK, double the number of interest counters on her. Remove all interest counters from Venture Capitalist and install 1 *RAM running for each interest counter removed.</text>
+    </card>
+    <card>
+      <name>GOKUDO SILENCER</name>
+      <set rarity="rare" num="75" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/75fb06fc-dcec-40f5-a501-ddc3e65c8242/be779f9ec550c80d17702d4969c669a8919c96de0d6ccb8a3d617643ed1dca6c.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO] Destroy target tether. Put a BLEED counter on target character. (On NETCHECK, each character controlled by the active player gets a -1/-1 counter for each BLEED counter on it.)</text>
+    </card>
+    <card>
+      <name>DEBT COLLECTOR</name>
+      <set rarity="uncommon" num="76" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/a699f13f-3461-4226-bef3-64a024c9c9d2/fd7dee82f5d67040c9fce659df32750ea80a84e0088eed0900be164bc4013a30.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO] When the last refreshed *RAM an opponent controls is run or committed, Debt Collector deals 2 *BF damage to them.</text>
+    </card>
+    <card>
+      <name>ED, CARD COUNTER</name>
+      <set rarity="rare" num="77" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/30070bc2-a893-43b5-8900-1cfca36afd7e/975d4ecfed873f6034e109f40fff657823a545f525da37e3e887dbc28b3de219.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO / GAMBLER] Whenever you roll a d20, put a +1/+1 counter on Ed, Card Counter.</text>
+    </card>
+    <card>
+      <name>NEOSEC FIRESTORM</name>
+      <set rarity="rare" num="78" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/69b17fd7-7e73-4d9d-bf8f-1ddda362edfa/0a2d1b3c00ace6afa176b560bdc551e44747ef2a01167b05beb629a2ecfb214a.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>6/7</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO / MECH] Deal 1 *BF damage to up to 3 target characters. Deal 3 *BF damage to target player.</text>
+    </card>
+    <card>
+      <name>OMNIS DEATHBRINGER</name>
+      <set rarity="rare" num="79" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/7629d9ab-061c-4c8f-abdd-05e8a8457412/81dbe367199c68c1a2e51d02be3e33898de8bd399af32e12e649b9c5f023a14d.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>3/7</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO] Deal 4 *BF damage to target player.</text>
+    </card>
+    <card>
+      <name>MAXIMILLION GOLD</name>
+      <set rarity="quantum rare" num="80" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/d06a1bb5-a102-4338-9220-da7839542007/a9cae67f74421977f4281b7ccc66384116d3c5e30ba88937c3ab7b876b06aac3.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO] Install 2 *RAM running. ADDITIONAL COST [Destroy X *RAM in your RAM bank.] Deal X *BF damage to target player.</text>
+    </card>
+    <card>
+      <name>DOWNLOAD MORE RAM</name>
+      <set rarity="uncommon" num="81" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/d6e44437-ff47-4b5a-b07c-14be1951bc5f/273f152835230b46a68991e7b01428cb776d7f267e60cfd147c78ffa696756a0.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CORPO] *SWIFT Put up to 4 target *RAM from your recycle bin into your RAM bank running.</text>
+    </card>
+    <card>
+      <name>GENERATIONAL WEALTH</name>
+      <set rarity="common" num="82" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/733c4d90-6934-4dfe-8401-c42b9da7d291/ce6147bad0b9ab2a0780c65c5e8dfb764b0ecfc3ffcd6bf530bddffacbc1ae5a.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CORPO] On your NETCHECK, roll a d20. If you roll 9 or higher, install 1 *RAM running.</text>
+    </card>
+    <card>
+      <name>MARKET MANIPULATION</name>
+      <set rarity="quantum rare" num="83" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/b8cc9e18-f767-4c36-be11-70c41700605f/1686bfdfe75116c7477633a595e9c14f4b42ee8b997fc7764e1d8de68196e62b.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CORPO] Install X *RAM running, where X is your *CORPO synergy.</text>
+    </card>
+    <card>
+      <name>GENOCIDE</name>
+      <set rarity="uncommon" num="84" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/2d1190d3-7dec-4e42-9905-428896d968ac/236c56eaa7e10e98b55309a175b7fb3e8e60d05fa278d8e8ad940c638fcd57d3.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CORPO] Name a faction. Destroy all characters of that faction, then you lose 1 *MF and 1 *BF health for each character destroyed this way.</text>
+    </card>
+    <card>
+      <name>TAX EVASION</name>
+      <set rarity="uncommon" num="85" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/bfd8e1d4-493d-4ced-a02e-72c6082061c8/319c6dafa7d9f0624fd40e322593e190c7ba0b95622fe2a894c24aed670b6587.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CORPO] If a character you control is destroyed by an opponent, its committed *RAM returns to its owner's RAM bank refreshed.</text>
+    </card>
+    <card>
+      <name>ARTIFICIAL INFLATION</name>
+      <set rarity="uncommon" num="86" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/86cb1442-f22b-435e-a110-6812175e071c/c1c4bd30b629e4c69944d665aba8cf04f940a692cfe5ea17157234ffbf4ac1f5.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CORPO] The *RAM cost of non-*CORPO cards is increased by 1 *RAM. (This includes committed character costs.)</text>
+    </card>
+    <card>
+      <name>BAILOUT</name>
+      <set rarity="uncommon" num="87" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/e535bad3-0200-4068-b05a-66f747b4041c/c681d54cfcf917f851ba4f1aacec6da0311e443a629baf923c3beb0d6c83e846.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CORPO] *SWIFT If you would lose the game this turn, instead set your *MF and *BF health to 1 and destroy half of your *RAM, rounded down.</text>
+    </card>
+    <card>
+      <name>INSURANCE POLICY</name>
+      <set rarity="common" num="88" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/9b3b9b91-4e46-4e71-a354-4de90fa98674/4bf1dd613f39fa2c4ea29f8010bf8e55b5d18f01434613f5b5572a6e39496e9d.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CORPO] Whenever a *CORPO character you control is destroyed by an opponent, install 1 *RAM running.</text>
+    </card>
+    <card>
+      <name>PROPAGANDA</name>
+      <set rarity="uncommon" num="89" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/c4a7a222-0dda-4cd5-b17f-0d79525d92c7/2ec21134eaa0dbf1be2d1d3df892eeac972d7d37a0481c9f507436986eab9410.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CORPO / POLITICIAN] *SWIFT Change target(s) of target program.</text>
+    </card>
+    <card>
+      <name>OIL SPILL</name>
+      <set rarity="rare" num="90" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/ceeaf795-f83a-43e1-9f7d-2e54d7454c1c/8c796ec55571848042ec09187b080dd8e361bc6d83a29dfde6d6448915c74da1.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CORPO] Put a -1/-1 counter on all characters. Install 2 *RAM running.</text>
+    </card>
+    <card>
+      <name>A-Z GLASS</name>
+      <set rarity="common" num="91" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/7c4f7168-d89b-422a-bb23-9f672d393aba/f060e0858cac9e182a64f5576bf1019b41fac08807bc16f82f30542e80da6eb4.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · CORPO] On enter, draw 1. You may look at any facedown cards in play.</text>
+    </card>
+    <card>
+      <name>A-Z OPTICS</name>
+      <set rarity="uncommon" num="92" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/9d2c4df6-8728-47a6-ae57-ecdb9e133a25/3fafe0bcf520a7c4b618932975d560371e2cc43a5e8b411866f562782e2b6825.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · CORPO] Attached character gets VISION. (Character can block characters with STEALTH.) All characters opponents control lose and can't get CLOAKED.</text>
+    </card>
+    <card>
+      <name>SNEAKERHEAD</name>
+      <set rarity="uncommon" num="93" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/e5a07806-0e36-429e-aae2-ca74bc4afd8a/f64e7f552393660c1c617610b7937584b0a7c9e8faf752b3acb0df05c7deeea3.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · CORPO] *SWIFT On enter, prevent all damage to attached character until turn end. Attached character gets +0/+2.</text>
+    </card>
+    <card>
+      <name>CHRONOS MAESTRO</name>
+      <set rarity="uncommon" num="94" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/1f0f45d6-f46f-4310-a6b8-30b9a845e066/82a541db5e57008fd7a75a6ca664d7c8c1b3eb5b8a6bf5597c9065fa81a5d706.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · CORPO] Install 2 *RAM running.</text>
+    </card>
+    <card>
+      <name>YACHT PARTY</name>
+      <set rarity="common" num="95" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/332e5dae-057a-4ef9-bf94-b8e202ed1994/4550935c2d090b3530a90d953ed6201340ffc1bf26b8efe2ac1d33ae8efbb641.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CORPO] On NETCHECK, the active player may pay 2 *RAM to reveal cards from their cyberdeck until they reveal a *CORPO character. They put it into their hand and shuffle the rest into their cyberdeck.</text>
+    </card>
+    <card>
+      <name>BOARDROOM</name>
+      <set rarity="uncommon" num="96" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/1c2af8d0-6085-4319-9411-b509601cab75/beca7233d4e90d6e0591a86b81f1fea7734e570075009cfbaca967879fcc9a22.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · CORPO] On NETCHECK, the player with the most characters in play may install 1 *RAM running. If tied, nothing happens. Each *CORPO character counts as two for this ability.</text>
+    </card>
+    <card>
+      <name>SCAVENGER</name>
+      <set rarity="common" num="97" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/d7301ed8-ca68-47ff-9508-7ef1199700dc/8fce65566673150f2811078ae02afc02b0ddf27852809b8153b19baee3994861.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · DUSTRUNNER] Install 1 *RAM running.</text>
+    </card>
+    <card>
+      <name>CARTOGRAPHER</name>
+      <set rarity="common" num="98" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/3ec2c11b-5714-4956-957b-d508d408fd53/3e7f88d6d8811955a13f5dbe564c3e9a05cb9c2ca3f5c98db6c1f74d05e49221.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · DUSTRUNNER] INDEX 3 ENVIRONMENT (Reveal the top 3 cards of your cyberdeck. Put 1 environment into your hand, then bin the rest.)</text>
+    </card>
+    <card>
+      <name>CANYON STALKERS</name>
+      <set rarity="common" num="99" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/8b795fb7-e7d0-4d4b-9548-986550995814/38d64b6101ce06ec286b5180e106cb073db230e52f115886276b2d1d1eb2a2ab.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · DUSTRUNNER / ANIMAL] If Canyon Stalkers' attack hits a character with a counter on it, it deals double damage to that character. Put a mark counter on target character.</text>
+    </card>
+    <card>
+      <name>SAND SCORPION</name>
+      <set rarity="uncommon" num="100" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/c8f91456-44ed-4d96-9a15-e9f2dd2f6a36/0ff2ded47e68c94ea25b583fdd8a14e3acede39e2db3cf4fe353482a87a6ecb1.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · DUSTRUNNER] Sand Scorpion deals *MF damage equal to its attack value to target running character.</text>
+    </card>
+    <card>
+      <name>SEARCHER OF THE SKY</name>
+      <set rarity="uncommon" num="101" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/85d94625-a106-419d-82ad-774bffc1442b/5940ea5860a57694f65ea80328b9e3a675816f6776a547d5afcc5cf5b2e33fc0.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · DUSTRUNNER / MYSTIC] DIVINE 2 (Look at the top 2 cards of your cyberdeck. Put 1 into your hand, then bin the other.)</text>
+    </card>
+    <card>
+      <name>BADLANDS SNIPER</name>
+      <set rarity="common" num="102" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/88c0acda-d695-43b1-aff3-3f90616b5f2a/19c0698f0468bdc20a6c150ea9ebda4decb5d3d0e59f6e8d596a47f02fd20862.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · DUSTRUNNER] Put a mark counter on target character. Deal 5 *BF damage to target character with a mark counter.</text>
+    </card>
+    <card>
+      <name>COYOTE RAIDERS</name>
+      <set rarity="common" num="103" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/8777ff92-5db6-4c11-aecb-2894160ec659/e185babf3934bbf281e4e8008c8564c2377ece433d103004679a3e4b8dac11ea.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · DUSTRUNNER] Until turn end, when Coyote Raiders' attack hits a player, destroy target *RAM they control.</text>
+    </card>
+    <card>
+      <name>BADLANDS MARAUDER</name>
+      <set rarity="uncommon" num="104" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/a47412db-9db3-4040-89bb-19d52bfacf3c/ba72f0eb517f3e606eebd23474228e4cdbfeb3cf011b1f568184b740ae9b85ce.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · DUSTRUNNER] Until turn end, when Badlands Marauder's attack hits a player, destroy target *RAM they control, then you install 1 *RAM running.</text>
+    </card>
+    <card>
+      <name>DUST DEVIL VULTURES</name>
+      <set rarity="uncommon" num="105" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/34810daa-5fbe-4492-8a14-2626a6e3eca0/c8a425e8a647432f6d2a7da88559d53bda5d00b870b2406b6c48c499590cf144.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · DUSTRUNNER] MIRAGE (When character is targeted by an opponent, you may put it into its owner’s hand.)</text>
+    </card>
+    <card>
+      <name>DUST DEVIL ELITES</name>
+      <set rarity="rare" num="106" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/cce48eab-aadc-44cf-bfbf-91e2aefe1195/ba0a0b9b01fe14eb680d173a3a4999be254a76c9919492aa5e3db88047d5d40c.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>7/3</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · DUSTRUNNER] Target character with 3 or less defense can't block until turn end.</text>
+    </card>
+    <card>
+      <name>ECLIPSE DROPSHIP</name>
+      <set rarity="uncommon" num="107" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/c5aae1d7-4d95-4958-9eb7-506b61aa3297/0eb16da41f460fe5c35cc5cde1dc9de747a022c5dfd07aee404bcf95ac861f0e.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · DUSTRUNNER] MIRAGE (When character is targeted by an opponent, you may put it into its owner’s hand.) Put 1 *DUSTRUNNER character from your hand into play and set its *RAM cost to 0. On turn end, if this character is in play, put it into its owner's hand.</text>
+    </card>
+    <card>
+      <name>ASHARA, HIGH PRIESTESS</name>
+      <set rarity="quantum rare" num="108" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/adf74d0d-3afa-448b-8568-de48bb7c40db/0d1931b60ead3cd07ba4ca196411f9e3ec1a46dff554c7a89c4ca209e98060c1.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · DUSTRUNNER] If you would draw 1 or more cards outside of your initialize stage, instead draw that many cards plus 1. Until turn end, if the ability of a *DUSTRUNNER environment would trigger, it triggers an additional time.</text>
+    </card>
+    <card>
+      <name>AEKANI PRIESTESS</name>
+      <set rarity="uncommon" num="109" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/a9e15a7a-bc94-4de5-a79d-ac62d50ed302/d43420d048011e87552ac6b2947b47f58d40fa3bfaf64d67717f4a329ef6f730.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · DUSTRUNNER / MYSTIC] Gain 3 *MF or 3 *BF health. If [The Amrita] is the active environment, instead gain 5 *MF or 5 *BF health.</text>
+    </card>
+    <card>
+      <name>BADLANDS INFANTRY</name>
+      <set rarity="common" num="110" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/370d9703-52f8-43da-9043-40e1b8b75c3a/04c4903e05c4b67d521ff79e31a2e3fbec7c8a51f0b97d8d4e806e1263ebe931.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · DUSTRUNNER] Badlands Infantry gets +1/+1 for each other character in their tether chain.</text>
+    </card>
+    <card>
+      <name>DUST DEVIL INITIATE</name>
+      <set rarity="common" num="111" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/7afff4f5-540c-4653-b638-59b349b587cc/625b03473e99b89c26d7d3de44d9009f033f9e40e4d4893954c271fca1511c18.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · DUSTRUNNER]</text>
+    </card>
+    <card>
+      <name>PRIEST OF MAHKAV</name>
+      <set rarity="uncommon" num="112" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/71bd25da-b2cc-4ae8-844d-f0df89196759/1636d018712590192cec92b5512accce8d62bc3f4e075655cbfe035e43f7ca42.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · DUSTRUNNER] ADDITIONAL COST [Destroy another character you control.] All *DUSTRUNNER characters you control get +3/+3 until turn end.</text>
+    </card>
+    <card>
+      <name>DUST TO DUST</name>
+      <set rarity="rare" num="113" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/64d55cee-07e7-4e11-9baf-0ddb0fadefd0/176f2d79a7b6817eec4511bb0cebc7dca252033b5c333e428c21901fc8654708.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · DUSTRUNNER] Destroy target *RAM and target character.</text>
+    </card>
+    <card>
+      <name>SAVAGE DUSTSTORM</name>
+      <set rarity="rare" num="114" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/fac479cf-cd61-4517-9d05-da6719ecd6f1/baf3dba96c6fa7a42820ee52ef55989f5e182cb71960c75010a61627ef8ad802.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · DUSTRUNNER] Run all non-*DUSTRUNNER characters.</text>
+    </card>
+    <card>
+      <name>GROWING UNREST</name>
+      <set rarity="uncommon" num="115" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/10526e1b-0820-4a60-922c-fefc1e63ccae/68160922ff14ae31253cbecc726f8d609fa8ed06e0659a9d4d6bd62d8526d732.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · DUSTRUNNER] Attach to target player’s mainframe. Whenever they install a *RAM, Growing Unrest deals 1 *MF damage to them.</text>
+    </card>
+    <card>
+      <name>COMB THE DESERT</name>
+      <set rarity="common" num="116" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/280fd50c-4edb-4ebb-832c-a9852b63d62a/add4c587c38ca686897e8681171da3211eb8cbf0de4ee68d403ccd9d4726947e.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · DUSTRUNNER] ADDITIONAL COST [Run X *DUSTRUNNER characters you control.] Draw X.</text>
+    </card>
+    <card>
+      <name>MOON FLOWER CACTUS</name>
+      <set rarity="uncommon" num="117" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/22dcc5d2-76a3-4d50-8472-afb300855593/debda49778eb15182fd2fc3c3a2cdce4d65e9cee5150469947c5f31e23a8096f.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · DUSTRUNNER] Draw 2.</text>
+    </card>
+    <card>
+      <name>MIRAGE</name>
+      <set rarity="uncommon" num="118" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/a321f201-d6ed-4a98-b197-6c759593f5ec/6f52b5d4a2b92a7e7a058ebadba8bc7f90b15e6ba4f79674c3876209a692d91d.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · DUSTRUNNER] *SWIFT Put target *DUSTRUNNER character you control into its owner's hand.</text>
+    </card>
+    <card>
+      <name>EMP GRENADE</name>
+      <set rarity="common" num="119" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/63308855-5322-4802-96d5-d9b5644bde57/a0a2814802602162499ed30b6e8869656a9e78fee298a2710ddb45f9bf88b275.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · DUSTRUNNER] *SWIFT Destroy target *RAM.</text>
+    </card>
+    <card>
+      <name>ENHANCE</name>
+      <set rarity="common" num="120" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/f9ff8c5f-65c0-43ef-8731-c9038ec7514c/f030e4b30c30ceb5367e9e78f1f08294a32f6da21e60cff6f11771071ec973f0.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · DUSTRUNNER] *SWIFT Look at the top 5 cards of target opponent's cyberdeck, then put them back in any order.</text>
+    </card>
+    <card>
+      <name>AEKANI BLOODLETTER</name>
+      <set rarity="uncommon" num="121" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/b004fdc9-8d52-4f27-87d0-92ed6255b37a/ff61b4bc054eb050a260118b696c8908452479dbebe7299662a502199dfa59bc.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · DUSTRUNNER] Whenever attached character's attack hits a character, put 2 BLEED counters on the character that was hit. (On NETCHECK, each character controlled by the active player gets a -1/-1 counter for each BLEED counter on it.)</text>
+    </card>
+    <card>
+      <name>DUST DEVIL GLAIVE</name>
+      <set rarity="rare" num="122" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/48020ef5-d5a5-49e5-aca5-dbf2c922476c/ccaee60e667166907b4754118ce16965aa50e819eb27323f34393e307310eda7.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · DUSTRUNNER] Attached character gets +2/+0. If this character is a Dust Devil, it gets an additional +4/+0.</text>
+    </card>
+    <card>
+      <name>THE AMRITA</name>
+      <set rarity="uncommon" num="123" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/290acf42-33bf-44e8-ab3d-3465cf196acc/cf960db80d1ba036aa39f52555b5933583cfab6ccc64e537529547b99f872d8f.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · DUSTRUNNER] On NETCHECK, the active player gains 1 *MF and 1 *BF health for each *DUSTRUNNER character they control.</text>
+    </card>
+    <card>
+      <name>THE PULSE</name>
+      <set rarity="quantum rare" num="124" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/bdaff2a5-7fb9-4338-8a79-2785f176f641/a858f4963a4b44232b6b386d9c81cca5635ae42eae2e1de82963999eb771841f.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · DUSTRUNNER] Whenever a *DUSTRUNNER character attacks, deal 1 *MF damage to the defending player.</text>
+    </card>
+    <card>
+      <name>SYNCHRONIZE</name>
+      <set rarity="uncommon" num="125" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/67832741-300f-4036-947c-68e94315ed2b/4bb127a2072569f800729d6e70daa501043abea999017ab6bf9a09d706e893b3.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · DUSTRUNNER] TETHER (Attach to 2 target characters. If either character leaves play, the tether follows.) The highest base attack value of any character in this tether chain becomes the attack value of all characters in this tether chain. The same is true for defense values.</text>
+    </card>
+    <card>
+      <name>CHAIN AMPLIFIER</name>
+      <set rarity="common" num="126" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/27220600-7672-4783-a05a-9204aa503a89/e3fbcc694cfaa840ed9644baa8cabec1e3a4304a5965f8b4fc26abada196fb6f.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · DUSTRUNNER] TETHER (Attach to 2 target characters. If either character leaves play, the tether follows.) All characters in this tether chain get +1/+1.</text>
+    </card>
+    <card>
+      <name>HOT WIRE</name>
+      <set rarity="uncommon" num="127" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/e0f980f5-2933-482a-9933-6025f14233ce/118f6faaa0af03e50dacdf9b07cd9ef1bfbb663967c51efc7d9dc21264e9762b.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · DUSTRUNNER] TETHER (Attach to 2 target characters. If either character leaves play, the tether follows.) All characters in this tether chain get OVERRUN. (Character deals excess damage to defending player when blocked.)</text>
+    </card>
+    <card>
+      <name>PSYCHIC</name>
+      <set rarity="common" num="128" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/d794d496-116a-43b3-92af-fcca1b5ade7f/073d0179c223578ae54ce9534f15cca06be869fbf3db3cdb168878c914eb5961.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · MYSTIC] Install 1 *RAM running.</text>
+    </card>
+    <card>
+      <name>SEER</name>
+      <set rarity="common" num="129" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/f967cbe6-2859-489e-9932-9e389f2647e7/4a13eb2c4aebadbc9e2caa5d1254c06bfce594e3b037266420786738c21f5572.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · MYSTIC] DIVINE 2 (Look at the top 2 cards of your cyberdeck. Put 1 into your hand, then bin the other.)</text>
+    </card>
+    <card>
+      <name>CELESTIAL CHANNELER</name>
+      <set rarity="uncommon" num="130" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/183608ce-70a5-4442-846c-aed572e5a606/0c16a5c44c3adad6cdc46f03af5e842de87f90727b1d5a8ddace51db2d4bbf27.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · MYSTIC] DATAVAMP (When character’s attack hits a player for *MF damage, you gain that much *MF health.) When you play a tarot, Celestial Channeler gets +1/+1 until turn end.</text>
+    </card>
+    <card>
+      <name>ASTRAL PROJECTOR</name>
+      <set rarity="common" num="131" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/29f208bf-7c04-4060-bc99-7497cd7570dc/50d6000fa849c42f9d5487083cab9c57a63fa1ee8bc7028d14e4b11a71431bf2.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · MYSTIC] When you play a tarot, Astral Projector gets +1/+1 until turn end. Astral Projector gets STEALTH until turn end. (Character can’t be blocked.)</text>
+    </card>
+    <card>
+      <name>SPIRIT GUIDE</name>
+      <set rarity="uncommon" num="132" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/0afee01e-86bb-4ef0-bc88-27ec385451d8/593be24c8d0806d98f23e78d849e7ec638366fe02a4f81c9bc8b8a2dd81e78bc.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · MYSTIC] When you play a tarot, create a *MF 0/1 Dreamwalker token character.</text>
+    </card>
+    <card>
+      <name>REANIMATOR</name>
+      <set rarity="uncommon" num="133" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/78ddb85e-53b6-46c0-822b-eed353b8798e/707d432c31982e24cf32d8c1538f0a44ec06e0e0a92d94c1a4180ff1ceb24b12.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · MYSTIC] Put target *MYSTIC character from your recycle bin into play with a SPIRIT counter. On turn end, purge it. (Character’s *RAM cost is set to 0. If they would leave play, purge them instead.)</text>
+    </card>
+    <card>
+      <name>ASTRA, COSMIC KITTY</name>
+      <set rarity="uncommon" num="134" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/bd097028-d46c-46b9-aafc-ab0fa2c66ff1/9a3747d2de328387a62fc12215e8c4a32f5678fbde5ac3bae7f0458cea26973e.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · MYSTIC / ANIMAL] On enter, draw 1.</text>
+    </card>
+    <card>
+      <name>THE ORACLE</name>
+      <set rarity="rare" num="135" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/c58e6288-5528-458d-9e96-0ad1b14daac9/55c392743cff66242d5de84361c7e9779903949a44e13a202d1472eff3f9c605.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · MYSTIC] You may look at the top card of your cyberdeck at any time. You may play that card. DIVINE 3 (Look at the top 3 cards of your cyberdeck. Put 1 into your hand, then bin the rest.)</text>
+    </card>
+    <card>
+      <name>SEANCE SISTERS</name>
+      <set rarity="uncommon" num="136" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/02406d16-c888-40af-9b45-e4df06ee4aef/53b9ea2761ff39fc67ea5ffa93473e09352f07e526e37305ff561d1c2a7ae252.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · MYSTIC] Seance Sisters get +1/+1 for each other *MYSTIC you control.</text>
+    </card>
+    <card>
+      <name>TRIXIE, TECHNO QUEEN</name>
+      <set rarity="rare" num="137" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/7dfd538f-dcb3-4ec6-b6ef-76e8e79ca469/9076d8b8d4c12b1c99e7360cacfb6151f88cc9cd74031b1f0cc54e349400ed9f.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · MYSTIC / RAVER] When you play a tarot, draw 1. The next drug you play this turn costs 0 *RAM.</text>
+    </card>
+    <card>
+      <name>MIND DELVER</name>
+      <set rarity="uncommon" num="138" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/57dde979-ebe8-4e97-af65-1da0a735414c/c164472bf5a500d3a6810cfd1d72df898cca7fc17a792039cba20cef739d2a74.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · MYSTIC] Take control of target character an opponent controls until turn end. Refresh it and reboot its abilities.</text>
+    </card>
+    <card>
+      <name>LUNA, THE SACRED MOON</name>
+      <set rarity="quantum rare" num="139" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/eebf8fb9-6e2d-4d5b-8a95-59a0c2541c26/e20a136abdc82fa1dda9fdada4cd72a02653ed5d7539a4bb3accb2e1de582434.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · MYSTIC] You may play tarots reversed. You gain 1 *MF and 1 *BF health for each tarot in your recycle bin. If you also control [Lilith, the Dark Moon], double this effect.</text>
+    </card>
+    <card>
+      <name>LILITH, THE DARK MOON</name>
+      <set rarity="quantum rare" num="140" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/64f1680f-b768-4feb-9dcb-f9a39b117283/9a44df210970ebf4855a9e22aa3cd327d52ed72436946a38a6dde453cc523f61.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>6/3</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · MYSTIC] You may play tarots reversed. Deal 1 *MF damage to target player for each tarot in your recycle bin. If you also control [Luna, the Sacred Moon], double this effect.</text>
+    </card>
+    <card>
+      <name>AMETHYST DATASHARD</name>
+      <set rarity="uncommon" num="141" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/818c13e3-3692-4c06-891c-b7b99de2bb4c/81222afad12d9c13a8e786d9ae17901344fd96979928c803318db4d96927a0e9.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] If a source would deal *BF damage to you, prevent that damage and put a fracture counter on Amethyst Datashard. Whenever you put a fracture counter on Amethyst Datashard, if it has 2 or more, purge it.</text>
+    </card>
+    <card>
+      <name>MOONSTONE DATASHARD</name>
+      <set rarity="common" num="142" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/2218e95c-76dd-4397-ad24-4229651a74ae/16fedc96533f626565ceb20437f194cb21058bb85b54f80f1c319ba5f01b6cb1.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] When you play a tarot, gain 1 *MF and 1 *BF health.</text>
+    </card>
+    <card>
+      <name>DARKSTONE DATASHARD</name>
+      <set rarity="common" num="143" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/aa05da05-1035-49b2-9e61-e6cdb11aa30a/80cdd622b5eca292531cfd9e0c16606eeb45bd7b38e3857b8621a588e8d74439.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] When you play a tarot, deal 1 *MF damage to each opponent.</text>
+    </card>
+    <card>
+      <name>BUTTERFLY EFFECT</name>
+      <set rarity="quantum rare" num="144" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/afd75ae3-39ab-4b79-ae27-d30d84c7301d/34f9d0c8c1f73c814f4e22cf1f6c55cd829b310e334cc9e67860b4dd972c91b6.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] On enter, create a *MF 0/1 Butterfly token character. On your SYSTEM CHECK, double the number of Butterfly token characters you control.</text>
+    </card>
+    <card>
+      <name>THE FOOL</name>
+      <set rarity="common" num="145" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/b6a944d8-b8a1-4880-b88c-c96409dc0ce8/0b3849db05ba0f75418ba2054ec7dbae937d6fc4ac0c57c185772d7b4eb9b63b.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Draw 1, then discard 1.</text>
+    </card>
+    <card>
+      <name>THE MAGICIAN</name>
+      <set rarity="uncommon" num="146" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/f9497880-e82b-433b-b590-a5318065dfc2/cb62dc7c19e410645d95be6c2d408fa43dcba3e6af9423a72e9a133f2c445949.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Put target program on the cache on top of it's owner's cyberdeck.</text>
+    </card>
+    <card>
+      <name>THE HIGH PRIESTESS</name>
+      <set rarity="rare" num="147" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/07a77771-8534-46bd-ac57-26c322fb14a9/35ac4ea21af2639b8c156b12cbc1b3235b869a5b9c9866a4753d7b3bb893f353.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Counter target character. REVERSED program</text>
+    </card>
+    <card>
+      <name>THE EMPRESS</name>
+      <set rarity="uncommon" num="148" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/87f1a7d0-3f53-4e95-9222-78c1d69a5c52/42dfd7b8af3add4b3ddd336a57bc8bf9527a647995b39e708e7f0c281245f0b9.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Draw 1 and install 1 *RAM running. REVERSED 2 *RAM.</text>
+    </card>
+    <card>
+      <name>THE EMPEROR</name>
+      <set rarity="uncommon" num="149" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/6f93e3d7-7e23-45b9-a07a-b542ee00078c/24f214bd3512f6c37a6a6cbe4df068c6bb7d4c2e9cf3888509c7c4395b32f413.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Put up to 2 target characters into their owners' hands. REVERSED programs</text>
+    </card>
+    <card>
+      <name>THE HIEROPHANT</name>
+      <set rarity="common" num="150" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/d02bb901-d744-4730-b0da-4cd9cd9e42aa/823943f2d059fc62f41f4aff97f430f183777f586789f5b552e5a8f5dd6f2352.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Counter target card unless its controller pays 1 *RAM. REVERSED 3 *RAM</text>
+    </card>
+    <card>
+      <name>THE LOVERS</name>
+      <set rarity="uncommon" num="151" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/089777cb-5342-4845-ad46-05ad0c60c01d/eb81cdff5f2c717532d2f9c9c1080ac8b1b81ee1df7e385b22bd118ebd692522.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Put two +1/+1 counters on 2 target characters. When one of these characters is destroyed, destroy the other.</text>
+    </card>
+    <card>
+      <name>THE CHARIOT</name>
+      <set rarity="rare" num="152" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/24347497-a1dc-46be-8b9d-cd08375ec65d/ae44f79ec84b8b02b4ce14c487c8e30a6e2d0bbd066d5b9f14bc2d3534feaf9e.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Change the target(s) of target program. REVERSED ability</text>
+    </card>
+    <card>
+      <name>STRENGTH</name>
+      <set rarity="common" num="153" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/2fc57a7e-eb1d-4893-a291-c17224e57a4e/10074f48b9334cb2934d90304e31c67e4e9518a1bf6754c5b9b7206592cd85e5.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Target character gets +2/+2 until turn end. REVERSED -2/-2</text>
+    </card>
+    <card>
+      <name>THE HERMIT</name>
+      <set rarity="common" num="154" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/357099b4-9dd6-403b-ac1c-52b0018c36cf/218003d7ea1696d966243ee0807e05863a4ed4d3c0f6afdb8c65817efe9cf312.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Put target character into its owner's hand. REVERSED on top of its owner's cyberdeck.</text>
+    </card>
+    <card>
+      <name>WHEEL OF FORTUNE</name>
+      <set rarity="uncommon" num="155" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/c38dc35b-06e8-4348-969a-b0efbb51367d/0a396975dc276dfd582ee323f3608ed26f9346296263cf58a595f8d321276ba3.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Name a *RAM cost, then reveal the top card of your cyberdeck. If its *RAM cost is the named cost, install 1 *RAM running. REVERSED draw 2.</text>
+    </card>
+    <card>
+      <name>JUSTICE</name>
+      <set rarity="common" num="156" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/cc85dc7a-27bd-49aa-998b-6bbd0eab571e/d734da8cd3f3fde09823e2a9184d8bd46661ad4699be38908aba7050fcd1eb67.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT If a character's attack hits target player this turn, prevent half that damage, rounded down, and deal *MF damage equal to the prevented damage to that character's controller.</text>
+    </card>
+    <card>
+      <name>THE HANGED MAN</name>
+      <set rarity="uncommon" num="157" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/4d2d6bc7-ebac-4e59-a35d-ba78379f1182/5630a3ce09a22b2e5c26d865ec34439c28c57bf31d8af40a4f40a30d625cbc8b.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT ADDITIONAL COST [Destroy a *MYSTIC character you control.] Counter target card.</text>
+    </card>
+    <card>
+      <name>DEATH</name>
+      <set rarity="common" num="158" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/399735bb-a03f-4925-82e3-f2536773ff65/be0a7b6302e552b7406bdaf4006b0e7568ec196aa220b9e7efcd5ce838fc379a.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] Destroy target character. If you do, its controller creates a *MF 2/2 Revenant token character.</text>
+    </card>
+    <card>
+      <name>TEMPERANCE</name>
+      <set rarity="common" num="159" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/2439b986-bb1c-4428-80c9-eb64bd732bbb/c2650255141700d476fa36b50c083e5c9d1d25832ec2aa3e0fe8fa38d4ce7c7a.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Target character can't be destroyed this turn. REVERSED program</text>
+    </card>
+    <card>
+      <name>THE DEVIL</name>
+      <set rarity="uncommon" num="160" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/af6cb9a8-723b-46d9-b179-d03a572b9641/2b3941f6bdcab4c8defab38562cf74d2592f016a7c9b98556c88912069704fe3.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Target character gets +10 PSYCHOSIS until turn end. It must attack this turn if able. REVERSED +15</text>
+    </card>
+    <card>
+      <name>THE TOWER</name>
+      <set rarity="rare" num="161" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/3d961b4e-2aec-4a5e-a4a5-9c41f3b8904f/2427d3f1e974f80f9bdb1bda19e70e0917948170af16054dc33562115610dc4b.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Reveal the top 4 cards of your cyberdeck. Target opponent puts them facedown into 2 piles. Put 1 pile into your hand, then bin the other.</text>
+    </card>
+    <card>
+      <name>THE STAR</name>
+      <set rarity="common" num="162" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/bd4c960c-4d97-4b23-83f7-e6954d8ab8ed/8d83c4cbfd83a4109e731c2a49e45d78b79c42d3fa467872c04618c5370655e4.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT DIVINE 3 (Look at the top 3 cards of your cyberdeck. Put 1 into your hand, then bin the rest.)</text>
+    </card>
+    <card>
+      <name>THE MOON</name>
+      <set rarity="common" num="163" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/793b3c76-1dee-461f-b37e-f0e8271adc36/67cf7ae75c8320d47bc8e5d9dd1f20f3db3b3343f5aee37ac731074acc73fd51.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Run X target characters, where X is the number of tarots played this turn. REVERSED cards</text>
+    </card>
+    <card>
+      <name>THE SUN</name>
+      <set rarity="uncommon" num="164" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/1c0a43e0-9c47-4ba6-a548-f9f42abd4a48/0e7e6a8349f2209fcb1d83849b9c56aa4058ec685e2035dea0d511639964fe13.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Search your cyberdeck for a tarot and reveal it. Put it into your hand, then shuffle. REVERSED program</text>
+    </card>
+    <card>
+      <name>JUDGEMENT</name>
+      <set rarity="common" num="165" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/0fbfb6dc-448f-4236-9845-b449697d9881/98d4eacbc178b31999c9b7509abe025cbd4105a0e86eaa8d078f1ce279951a19.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Until turn end, whenever a character you control is destroyed by an opponent, destroy target character. REVERSED program</text>
+    </card>
+    <card>
+      <name>THE WORLD</name>
+      <set rarity="uncommon" num="166" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/369571e1-32fe-46c7-ba63-2eaf22e3db9e/b1591839d4fb596107fe3677598ea078588757e8ad8dd909011f9c4a62a1f88d.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] *SWIFT Search your cyberdeck for an environment and reveal it. Put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>THIRD EYE</name>
+      <set rarity="uncommon" num="167" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/7cf334b4-defd-4ff9-a827-527f997c45b0/771c819625fb6ba6966dd7d223a7b9b790b565ae9e4e98a8b06babfd43a48d42.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · MYSTIC] Opponents play with their hands revealed. You may look at any facedown cards in play.</text>
+    </card>
+    <card>
+      <name>ZEN GARDEN</name>
+      <set rarity="uncommon" num="168" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/aedb4478-6bff-4efc-8f13-8795dd125062/25365e083e90b39b9eaa788623e166ef448870330877be5412311fe602788789.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] Prevent all damage. On NETCHECK, add 1 anicca counter to Zen Garden. Then, if it has 5 or more, destroy it. If Zen Garden would leave play, purge it.</text>
+    </card>
+    <card>
+      <name>SETU SIMULATION</name>
+      <set rarity="rare" num="169" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/e4ff952c-43b1-4e21-bca3-85acd9d89f0c/67d0de24c2bbad1eb92f498257441bea46a32dabea15e9b85eb4c8b1abd48864.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] On NETCHECK, the active player may purge a character they control to put target *MYSTIC character from their recycle bin into their hand.</text>
+    </card>
+    <card>
+      <name>THE SPIRIT REALM</name>
+      <set rarity="rare" num="170" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/07a9faeb-bd38-4c22-8842-558961e1df41/eef15db2a556829ab684de16509c3d12c8a130630bbbbeac210911640ea6354e.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · MYSTIC] On enter, all characters in recycle bins that share a faction with their owner's mainframe are put into play under their owner's control with a SPIRIT counter on them. (Character’s *RAM cost is set to 0. If they would leave play, purge them instead.) When The Spirit Realm leaves play, purge all characters with SPIRIT counters.</text>
+    </card>
+    <card>
+      <name>ROADIE</name>
+      <set rarity="common" num="171" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/5fd1c313-2fbf-4d85-97ef-2a16a2a07632/a1d95f46538be9f88365d7c2840ee6ae7127cbadc16cc0d70ce700a180b68d4d.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · THRASHER] Install 1 *RAM running.</text>
+    </card>
+    <card>
+      <name>SINISTER MANAGER</name>
+      <set rarity="uncommon" num="172" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/89f968d2-410f-4eaf-911b-26fece4fcb44/061187feb277ffa59ede3ad97693d88b2146f87f2bd0cf9b8404b1e9fa2fc2d1.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO / THRASHER] On enter, until Sinister Manager leaves play, target iconic *THRASHER character you control gets +4/+4 and OVERRUN. (Character deals excess damage to defending player when blocked.) When Sinister Manager leaves play, destroy that character.</text>
+    </card>
+    <card>
+      <name>GROUPIE</name>
+      <set rarity="common" num="173" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/f58c2cd0-8d71-4d20-91d0-fc23f26e6c9e/3ec20b57d853473636c9dcedfb7493cb7d56f8f6eb05484e27b84f5a83d159d3.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · THRASHER] On enter, target iconic *THRASHER character you control gets +2/+0 until Groupie leaves play.</text>
+    </card>
+    <card>
+      <name>STAGE DIVER</name>
+      <set rarity="uncommon" num="174" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/aff69b51-215f-4f6b-926b-7d880e12ebd9/9715404995cdae6c152cd59712d868f653f7e6992030d1eac8415fea1a16ab63.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · THRASHER] Destroy Stage Diver. If you do, deal 1 *BF damage to up to 2 target characters.</text>
+    </card>
+    <card>
+      <name>FRENZIED FAN</name>
+      <set rarity="uncommon" num="175" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/b0a39dc5-61ff-4c27-b987-6c0b585675e5/a042124cde73e8e0e004ae0f2c9bc45dd114c6993eb083bf7d168bd7c4a9c3aa.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · THRASHER] If Frenzied Fan would be destroyed, you may pay 2 *MF and 2 *BF health to put them into their owner's hand instead.</text>
+    </card>
+    <card>
+      <name>MOSHER</name>
+      <set rarity="uncommon" num="176" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/03704a37-37eb-4539-ad4c-7ac74d6b20d3/29e93f22e4abef3ad97da5696d3a8ac25f0b3f313f9fd00092a18ff419ee493c.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · THRASHER] Deal 1 *BF damage to all other characters in play. Put a -1/-1 counter on Mosher.</text>
+    </card>
+    <card>
+      <name>EDWARD 40 HANDS</name>
+      <set rarity="rare" num="177" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/d9fd6f03-dbf7-499d-a7e6-a86bbd21fa77/5b56f6f2ac3b0219c451a2b6c9f9887e27d799ae0576db4565d8136cfef8923f.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · THRASHER] On your NETCHECK, put 1 drink counter to Edward 40 Hands. Edward 40 Hands gets +4/+0 for every 2 drink counters on him.</text>
+    </card>
+    <card>
+      <name>SHREDDER</name>
+      <set rarity="common" num="178" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/41529cf8-29f8-44ef-8de9-01a4cad082c9/a45b5681e5d63cd522b1e54b7c6402cf0bf6d4e600b567d2750d56774717f706.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · THRASHER] FEEDBACK (Whenever character is dealt damage, it deals that much *BF damage to the source's controller.)</text>
+    </card>
+    <card>
+      <name>SKIN SMASHER</name>
+      <set rarity="common" num="179" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/84a2133a-6625-4ad3-b987-9fee95540f5c/d95fa885f0b30b90ccfea41d584bf0e8602503200dcfa223ed601e4679157ce6.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · THRASHER] Other *THRASHER characters you control get +1/+1 until turn end.</text>
+    </card>
+    <card>
+      <name>NAMELESS</name>
+      <set rarity="uncommon" num="180" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/6051e4bb-d4da-4560-a062-87c691812bea/267ea43dc28be0a4e88fdf34e026e87c2cb5ba253af09ed1a1c8f182ed56e04e.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · THRASHER] Destroy target program.</text>
+    </card>
+    <card>
+      <name>VIC VIPER, AXE GOD</name>
+      <set rarity="rare" num="181" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/ef8825fe-fa2e-45c3-8e07-dc1b34d4a0c3/bfcd9dded9911be0653f6d721537956fb10ba8ac96e95138a437d2047059dde0.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>5/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · THRASHER] Until turn end, all *THRASHER characters get +2/+0 and all other characters get -1/-1.</text>
+    </card>
+    <card>
+      <name>XAX XANTHOS</name>
+      <set rarity="rare" num="182" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/8b8a3f58-c620-47c7-a0cf-09fb7cc143ef/78002031421ff35aecc81a223c31ce6fc652b2d863d24af7409a8e6d800aa3b2.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · THRASHER] Until turn end, all non-*THRASHER characters get +10 PSYCHOSIS. (When character attacks or runs, roll a d20. If you roll less than its PSYCHOSIS, its attack hits you and this action fails.)</text>
+    </card>
+    <card>
+      <name>ROXY RIOT</name>
+      <set rarity="quantum rare" num="183" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/a2b327b6-5b12-449d-b753-59dd698df4fe/22449912a94da597aa041360f530aff9e20acba632352c0edebb656ddbae584a.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>5/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · THRASHER] On your NETCHECK, put 1 rage counter on Roxy Riot. When her attack hits a player, she deals 1 *BF damage to them for each rage counter on her. When a player destroys her, deal 3 *BF damage to them for each rage counter on her.</text>
+    </card>
+    <card>
+      <name>JETT THORN</name>
+      <set rarity="quantum rare" num="184" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/99370879-cb49-4470-bb3d-8c81a86e4fbf/ac66ae94ea362b906528f2693f2205cde9038f7b006b7ab7f5bc2935946ae044.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>7/3</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · THRASHER] Destroy target running character. Until turn end, *THRASHER characters you control get +2/+0 and OVERRUN.</text>
+    </card>
+    <card>
+      <name>WALL OF DEATH</name>
+      <set rarity="rare" num="185" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/53ee9c7a-7f89-4e11-9405-771b17bf3b1b/d8741e650b07231b0bfb9ff1bb0ee7b69c65f070a4c0ce97d03db3855721602a.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · THRASHER] On NETCHECK, put 1 mosh counter on Wall of Death. Then, if it has 2 or more mosh counters, purge it. If you do, until turn end, all characters must attack or block if able and all *THRASHER characters get +2/+2.</text>
+    </card>
+    <card>
+      <name>DEATH METAL</name>
+      <set rarity="common" num="186" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/b919573a-22c1-4e33-9578-451ff74731d5/b2f6c9ffd7217f4d78f42e33221247b34bd5dce159e1b29721355fab53e168d8.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · THRASHER] Destroy target character.</text>
+    </card>
+    <card>
+      <name>BEATDOWN</name>
+      <set rarity="common" num="187" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/52dc9db0-a12c-41e3-a9a1-0e92208cb3fa/db04d423ee28cf20ae6e409a8af1f15846b503f10a546916ade06b8f55659656.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · THRASHER] Destroy target character. You lose *MF and *BF health equal to its attack value.</text>
+    </card>
+    <card>
+      <name>TRAMPLE</name>
+      <set rarity="common" num="188" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/2cc1438d-76e1-49e5-9205-920290750728/f9ce08dd00d0289774ce27d8a8a055aeb0b67d27a43fb67e974a98a36b48fdc5.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · THRASHER] *SWIFT Destroy target blocking character with defense value of 2 or less.</text>
+    </card>
+    <card>
+      <name>RUSH THE STAGE</name>
+      <set rarity="quantum rare" num="189" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/40a7ace6-6e73-4aec-ba61-c463e101f5a8/8c4fc022a8f100c2bac57b8ab85d62a498666d1d8f7113eecc9a16955d165104.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · THRASHER] *SWIFT ADDITIONAL COST [Pay X *MF and X *BF health.] Target *THRASHER character gets +X/+0 until turn end. On turn end, destroy it.</text>
+    </card>
+    <card>
+      <name>PLASMA SHACKLE</name>
+      <set rarity="uncommon" num="190" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/02f126db-8c28-4611-b88b-ed4fd4d07a32/284da08c11285a3178da3a0c27f809db46ba99fe9042346f246a8253be7253e8.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · THRASHER] MALICIOUS (Attach to any target character.) Attached character gets +8 PSYCHOSIS. (When character attacks or runs, roll a d20. If you roll less than its PSYCHOSIS, its attack hits you and this action fails.) On its controller's NETCHECK, put a -1/-1 counter on attached character.</text>
+    </card>
+    <card>
+      <name>SIPHON GAUNTLET</name>
+      <set rarity="uncommon" num="191" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/030eeffc-7051-4d97-8684-8c903e660b7a/26331fc0a2fe66abee5df19d7413f9a3eebb72eef1b7d8cabc9fc182980356dc.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · THRASHER] Attached character gets BIOVAMP (When character’s attack hits a player for *BF damage, you gain that much *BF health.)</text>
+    </card>
+    <card>
+      <name>BATTLE AXE</name>
+      <set rarity="uncommon" num="192" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/6c06c7ef-e3f1-4517-b753-70adfcc247f3/ce48e3017eedf222ba687eabe96728887418cdd4f91190fa29b637577970116d.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · THRASHER] Attached character gets +3/+0. When it becomes blocked, it deals 1 *BF damage to each character blocking it.</text>
+    </card>
+    <card>
+      <name>GIGADYNE AMP</name>
+      <set rarity="uncommon" num="193" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/09cb28c6-3b58-437d-95f1-50fdeaea4f2f/12d3b59d733e2b7ad94a0833d8de6e2c629608d08f5cd1367a897755b1928e9c.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · THRASHER] Double the base attack value of attached character.</text>
+    </card>
+    <card>
+      <name>DEMON SHARD</name>
+      <set rarity="rare" num="194" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/ff14c775-0269-46a0-91dc-eb1edf690ba6/5bc2aeefafce7dbdcd700b79d59ac1be8643a116330ebef99f7b5e5cc98b4cf6.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · THRASHER] Put two -1/-1 counters on attached character, then deal 6 *BF damage to up to 3 target characters.</text>
+    </card>
+    <card>
+      <name>BRAINSHREDDER</name>
+      <set rarity="rare" num="195" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/7b135025-a446-4acf-96ca-c3536671ae39/6f0ba9838a310e19615ae689a73d5d583b98a6b86effd53071558714213bea88.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · THRASHER] MALICIOUS (Attach to any target character.) Attached character can't be force quit and gets +15 PSYCHOSIS. (When character attacks or runs, roll a d20. If you roll less than its PSYCHOSIS, its attack hits you and this action fails.) If attached to [Xax Xanthos], he gets +6/+0 and is immune to PSYCHOSIS.</text>
+    </card>
+    <card>
+      <name>OVERDRIVER</name>
+      <set rarity="uncommon" num="196" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/f42371de-1f64-47a4-8d25-3f191848200b/5604f718c884196f9fb77c45b209b470c3585804aa5b432f2f4bc6c979a936f4.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · THRASHER] MALICIOUS (Attach to any target character.) Attached character can't be force quit. Double its PSYCHOSIS.</text>
+    </card>
+    <card>
+      <name>WHAMMY BAR</name>
+      <set rarity="uncommon" num="197" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/9e646d0f-89eb-4f2c-b898-750dcada0dd3/61c503dd03abf7ec24c73eaf7b623fe3cf36d9c12d6e77f1407003d754141a2c.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear · THRASHER] Destroy target running character.</text>
+    </card>
+    <card>
+      <name>DEATH WISH</name>
+      <set rarity="rare" num="198" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/4d16b51f-98fd-4e84-9dcd-8b13718dac20/d2f1c0b3ff57c15a06a19ff6f52e4576b63a429585c6d78d8bf962b2ab4055a5.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · THRASHER] Whenever a non-*THRASHER character takes *BF damage, destroy them.</text>
+    </card>
+    <card>
+      <name>MOSH PIT</name>
+      <set rarity="uncommon" num="199" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/d528c7a7-8556-45f8-8afa-0ba239b8d9b5/b32206a10de572129b2293066042fd8fba432a93782d8c573e4d380fa5fe8b53.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · THRASHER] Damage can't be prevented.</text>
+    </card>
+    <card>
+      <name>NANOBOT SWARM</name>
+      <set rarity="common" num="200" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/e45525aa-735a-4c2d-a442-4b64786c3809/297455d2deb48aadc5d867a4b43ba7a125e1efde71e51070aedf5e769b39d3d8.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · NANOBOT] A cyberdeck can have any number of cards named [Nanobot Swarm]. Nanobot Swarm gets +1/+0 for each other *NANOBOT character you control.</text>
+    </card>
+    <card>
+      <name>NANOBOT HARVESTER</name>
+      <set rarity="common" num="201" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/62d84894-abea-45b2-811c-ff34841a5b43/5f50329cd1e230b90ef9aa5e7fbdd6157e1b6afeff9c251c3bf17f621f79bb30.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · NANOBOT] Install 1 *RAM running.</text>
+    </card>
+    <card>
+      <name>NANOBOT MESSENGER</name>
+      <set rarity="uncommon" num="202" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/39b31485-0391-4513-a5b9-d003baeccb9e/e52653ed2dd7c76d2c4cdd7e1fa309f775952a1797d561f9708b6f1b16b066f2.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · NANOBOT] Search your cyberdeck for [Xandra, Hive Queen] and reveal her. Put her into your hand, then shuffle. Purge Nanobot Messenger.</text>
+    </card>
+    <card>
+      <name>XANDRA, HIVE QUEEN</name>
+      <set rarity="quantum rare" num="203" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/73c5a5e9-1376-4915-8af5-45a110931db2/20a73a808b6255c0f47c4a01b26aaae3363fb0268a8996c767e1f33c405387bc.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · NANOBOT] ADDITIONAL COST [Run 2 *NANOBOT characters you control.] ADDITIONAL COST [Run and destroy any number of *NANOBOT characters you control.] For each *NANOBOT destroyed this way, deal *BF damage equal to its attack value to target character.</text>
+    </card>
+    <card>
+      <name>MAD HONEY</name>
+      <set rarity="uncommon" num="204" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/eefd23a1-deda-4b73-ab47-4d4ea1a2a328/487416f5b2ea3f0f079f31a83b5170bbc37e99e448d258a0f8bf55002fa5c185.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · NANOBOT] Until turn end, *NANOBOT characters you control get +1/+1 and OVERRUN. (Character deals excess damage to defending player when blocked.)</text>
+    </card>
+    <card>
+      <name>THE HIVE</name>
+      <set rarity="rare" num="205" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/aa900643-5acb-4282-87b2-bdfe93753f9d/63430fa04097b969a71507c5c0ff18c4b142a83d68b3f6b04c0be86b9f2347d6.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · NANOBOT] On NETCHECK, the active player creates a *BF 1/1 *NANOBOT Drone token character.</text>
+    </card>
+    <card>
+      <name>ALICE, DREAMWALKER</name>
+      <set rarity="quantum rare" num="206" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/df45c11a-31c2-4838-a128-a0385346cc61/ca590be7f29f4ef5f05ce156a392633f71ca6db725967d6635f1ac6a219f4682.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · WONDERLAND] Put an INVERT counter on target *WONDERLAND character. If it already has one, remove 1 instead. (Character swaps its attack type.) If you control a Pawn token, a Bishop token, and a Rook token, and your opponents control a total of 1 character, you win the game.</text>
+    </card>
+    <card>
+      <name>QUEEN OF HEARTS</name>
+      <set rarity="quantum rare" num="207" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/9ffa99b5-98d2-4614-9656-08d2c3cb219c/4d4667d129b88e2cc7737112a396c141e2d00789f77b3967591f826152153073.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · WONDERLAND / CYBERNETIC] Destroy up to 2 target characters.</text>
+    </card>
+    <card>
+      <name>WHITE KNIGHT</name>
+      <set rarity="uncommon" num="208" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/2dbe2535-e170-4a14-9a86-335f49ac924b/34d1ac9d463a2e5f7c627da38ac467499432b031feb43e266b56ca927a464ca4.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · WONDERLAND / ROBOT] Gain 2 *MF or 2 *BF health.</text>
+    </card>
+    <card>
+      <name>RED KNIGHT</name>
+      <set rarity="uncommon" num="209" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/e8844622-e6ee-4698-a459-ad8ae7ac7d3d/bdbcea3d75d9a1a52c3ba1c31083174695bd3fdaae03fb09d52051d09e40afe0.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · WONDERLAND / ROBOT] Deal 2 *MF or 2 *BF damage to target player.</text>
+    </card>
+    <card>
+      <name>MAD HATTER</name>
+      <set rarity="rare" num="210" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/6a29dd75-2e6a-46df-9c76-f05c852ec2f0/de69d03b0e6e3fd589978923a76f88dfdbe21abc67498a8b7ec0ae0c166fb268.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · WONDERLAND / HACKER] When Mad Hatter leaves play, destroy all characters with tea party counters. Reveal the top 2 cards of your cyberdeck. Put a *WONDERLAND character from among them into play with a tea party counter on it and set its *RAM cost to 0. Bin the rest.</text>
+    </card>
+    <card>
+      <name>BIG KAT</name>
+      <set rarity="common" num="211" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/b79be2d7-1eae-4864-9db4-6bc17cdb4fb6/45f721e73cb20e034f86f2a094ed1aae76096bf0d8e14d1c31669e565579ac68.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · WONDERLAND / CORPO] Put a -1/-1 counter on target character. Put a +1/+1 counter on another target *WONDERLAND character.</text>
+    </card>
+    <card>
+      <name>WONDERLAND</name>
+      <set rarity="rare" num="212" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/f8c690c3-1898-4d79-ae79-dd0473707988/1b9adb4914b0f36720dd9583642f935a3cf9c5ebab30055933932a6d81dbb08e.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · WONDERLAND] On NETCHECK, the active player may roll a d20. If they control (Alice, Dreamwalker), they roll twice instead. 1–3 | They destroy a character they control, unless they control (Alice, Dreamwalker). 4–17 | They may choose target character and put an INVERT counter on it. If it already has one, remove 1 instead. (Character swaps its attack type.) 18+ | They reveal the top card of their cyberdeck. If it can be played, they set its *RAM cost to 0 and play it; if not, bin it.</text>
+    </card>
+    <card>
+      <name>CHESHIRE.RAR</name>
+      <set rarity="uncommon" num="213" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/462fca1e-56a6-4d66-9370-83c13a6e90e6/5c7f92647921861a74b63fca77fa18713d70c85197b7a733c5fb0c928156856b.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · WONDERLAND] Attach to target player's mainframe. The following abilities only trigger if your *WONDERLAND synergy is 2 or more: When this becomes attached to a mainframe, if it's an opponent's, deal 1 *MF or 1 *BF damage to them; if it's yours or a teammate's, you gain 1 *MF or 1 *BF health. On your SYSTEM CHECK, attach this to a different mainframe if possible.</text>
+    </card>
+    <card>
+      <name>DRINK ME</name>
+      <set rarity="common" num="214" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/860e270a-cee2-4a5f-83bb-8400f35e8059/7c105bfee9393ab1d6440aae75e1879799eb03d1e37abbb0b4717ab5ad59b413.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · WONDERLAND] *SWIFT All characters your opponents control get -1/-1 until turn end. If you control [Alice, Dreamwalker], instead put a -1/-1 counter on these characters.</text>
+    </card>
+    <card>
+      <name>EAT ME</name>
+      <set rarity="common" num="215" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/3e022d3a-16e9-48ee-90f5-e3a27442fe71/10d42360291b047767cd7bb97b916ce1d7bfa2f3523a75f167778123984f5e59.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · WONDERLAND] *SWIFT All characters you control get +1/+1 until turn end. If you control [Alice, Dreamwalker], instead put a +1/+1 counter on these characters.</text>
+    </card>
+    <card>
+      <name>THROUGH THE LOOKING GLASS</name>
+      <set rarity="uncommon" num="216" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/6e16f16a-7ad7-479e-af7d-83e20a05ed3f/5c16bc5ec82196c6f0df74f3d3c5da4265bc1d55d00d9f3fa45efb07518fb1bf.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program · WONDERLAND] *SWIFT Put an INVERT counter on target character. If it already has one, remove 1 instead. (Character swaps its attack type.)</text>
+    </card>
+    <card>
+      <name>JABBERWOCKY</name>
+      <set rarity="rare" num="217" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/4dc241f5-1f34-49a5-a1e8-441bed915ea5/101e87b931aba5018f4a86e016f339ee35413e97dc08c2b717019737e0301ec7.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>9/9</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · WONDERLAND / CYBERNETIC]</text>
+    </card>
+    <card>
+      <name>B.O.B.</name>
+      <set rarity="common" num="218" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/e14fb87b-e226-4b26-ac46-c6af5e7a9176/b72753390e0fba82cb28e75b8be5986a8a3008824580a18d8c2354cf7d19106b.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · ROBOT] Destroy B.O.B. If you do, deal 4 *MF and 4 *BF damage to all players, and deal 4 *BF damage to all characters.</text>
+    </card>
+    <card>
+      <name>THE SINGULARITY</name>
+      <set rarity="quantum rare" num="219" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/ff9ef3b9-9f34-4931-a066-f76da996d416/572be6bbd0102dbbacc8ca620d46288369972e7196c242120a0dcc8fa366958c.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>1/6</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · A.I.] On enter, destroy all *RAM you control. The *RAM cost of all cards in play that you control and their activated abilities is 0. Until turn end, you may play up to 2 cards without paying their *RAM cost.</text>
+    </card>
+    <card>
+      <name>PROJECT ARCHANGEL</name>
+      <set rarity="quantum rare" num="220" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/651fa0f7-a433-46c5-9f66-136068839053/c770a36920f4190e889335adaa62ba231466382ee93f3f18112828b06b715a85.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>10/10</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · MECH] Project Archangel can’t attack or block unless it has 1 or more ARMOR counters. On your SYSTEM CHECK, if it has no ARMOR counters, put 1 on it. (If character would be destroyed, instead remove an ARMOR counter from it.) Destroy all other characters and programs. On turn end, purge Project Archangel.</text>
+    </card>
+    <card>
+      <name>SHORT CIRCUIT</name>
+      <set rarity="common" num="221" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/a8b67493-42e8-46db-b463-57e4b2a4c7ca/037710b7a56a8fe1a5b9a60bb9b76dd4327de073c81bb897ae304a2b9f349413.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program ·] *SWIFT Destroy target cyberware.</text>
+    </card>
+    <card>
+      <name>DÉJÀ VU</name>
+      <set rarity="quantum rare" num="222" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/ec418f32-2ecc-4f94-92c4-0d3c76af8240/1388113b343a819258f863eea52757d8f642f9b7c228b7c5d198018ae9b3df8e.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program ·] ADDITIONAL COST [Pay 3 *MF and 3 *BF health.] Take an extra turn after this one. Purge Déjà Vu.</text>
+    </card>
+    <card>
+      <name>NEURAL DISRUPTOR</name>
+      <set rarity="rare" num="223" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/24fdccde-d45f-4997-9383-89df537307ad/da5fd43bdf1d98787962636337f8a10dc8b8a06c6401bbbdfe4e825cf45e3024.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear ·] MALICIOUS (Attach to any target character.) Attached character gets +15 PSYCHOSIS and must attack if able. (When character attacks or runs, roll a d20. If you roll less than its PSYCHOSIS, its attack hits you and this action fails.)</text>
+    </card>
+    <card>
+      <name>ANTIVIRUS</name>
+      <set rarity="common" num="224" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/6bc3ceab-04fe-455b-9c9c-b0470f122286/5932db75689db3b99b5e073bcf6c5184712a7565685c1d8ec9b3d30143e1d0c0.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program ·] *SWIFT Select one — • Destroy target program attached to your mainframe. • Remove all counters on your mainframe.</text>
+    </card>
+    <card>
+      <name>TERMINATE</name>
+      <set rarity="common" num="225" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/4d9bea64-fab4-4694-b299-0a4b3b44f7a8/080ed41e47bcc141738836bbe3510dc9d1a238b6fb1a35e10260a042a7411b54.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program ·] *SWIFT Destroy target program.</text>
+    </card>
+    <card>
+      <name>DELETE</name>
+      <set rarity="common" num="226" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/72967874-2318-4e18-9fc2-a8b5e364787f/5e538ea1add8ef743c925a59ca8b6c09c51eadea33ea802b6edbd15b9c169d1f.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program ·] Destroy target character.</text>
+    </card>
+    <card>
+      <name>SOLAR FLARE</name>
+      <set rarity="rare" num="227" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/68e17e96-ee1c-448e-ad38-31f0d6a6ffb9/74f9d11b63d1b4376a028bd8f7eba29914b7a20c3923f7008de2da4edb603e0f.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program ·] Destroy all characters and programs.</text>
+    </card>
+    <card>
+      <name>GARBAGE DAY</name>
+      <set rarity="uncommon" num="228" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/931699df-4536-4a7f-a66b-d206f32de6e8/4bf980e36742ed65882d2551688fcd9d02717444c445791e1834204ed67523db.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program ·] Purge all recycle bins.</text>
+    </card>
+    <card>
+      <name>SPECTRE 9MM</name>
+      <set rarity="common" num="229" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/a4fc6736-0561-4d7a-a824-788c44595f9d/4c84e586ef08878c29926e21f0c295a000ec47e856c4003236a0d7ab281effe4.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Gear</type>
+        <maintype>Gear</maintype>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[gear ·] Attached character gets +2/+0.</text>
+    </card>
+    <card>
+      <name>SIMULATED SOLACE</name>
+      <set rarity="uncommon" num="230" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/01b945b8-b22b-45ae-b8af-5d7060bc28ed/5085f1674b49b7bcb6099355ff2479b80e79e492bd01afe10ca60fd2d5ad8cd7.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program ·] Attach to target player's mainframe. On their SYSTEM CHECK, they take 2 *MF and 2 *BF damage, then they draw 1.</text>
+    </card>
+    <card>
+      <name>CROSSFADE</name>
+      <set rarity="uncommon" num="231" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/3b74d3ea-b033-4954-be27-6159f88d0dfd/0c0b81dfbab10030c5b7f75358b3dc48ad6e88b41f54898c527eaec0d7eb7253.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program ·] On NETCHECK, the active player may destroy 1 *RAM they control to draw 1.</text>
+    </card>
+    <card>
+      <name>SUPERSYMMETRY</name>
+      <set rarity="rare" num="232" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/a97feebb-6d0f-45da-b4a2-8b137159a1e5/e2a6515fef33608567dc85d9cd6f8969f3bcb157e0b5d23e2000f98d7b7fcf58.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program ·] All characters' base attack values are swapped with their base defense values.</text>
+    </card>
+    <card>
+      <name>MULTIVERSE</name>
+      <set rarity="quantum rare" num="233" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/6bc39707-82e9-463d-87fc-aa924fc1ab7a/7b614064198d64fb5972810deb29bd5a7a02dbf83d3c668251adddcb8e2f1692.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program ·] There can be any number of environments in play. Environments aren't destroyed when a new environment enters. When Multiverse leaves play, purge all other environments.</text>
+    </card>
+    <card>
+      <name>ACID RAIN</name>
+      <set rarity="uncommon" num="234" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/e1ec1411-c056-4cf8-9553-ed6e8208dadd/6b665477bc02ccc700557b6ae2899f6f2ffcd5d949c32bfeb9f2a78f80d1e84a.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[program ·] On NETCHECK, Acid Rain deals 1 *BF damage to all characters.</text>
+    </card>
+    <card>
+      <name>FIRESTARTER</name>
+      <set rarity="common" num="235" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/36ce13d0-c63e-4d4f-919d-b620cf8bfcc3/8144d9d16e2b122334e7fed75bc8508d0598131936b5ac1fd6daed36f90bb657.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · HACKER] Deal 1 *MF damage to any target. Instead, deal 2 *MF damage to any target.</text>
+    </card>
+    <card>
+      <name>DEEPNET</name>
+      <set rarity="common" num="236" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/6bf7bc32-ce69-4684-93df-56c7929612b2/7310ba787e54ad44cab08115655b2b3e3a732b3e2a99ae6e2984ea1e10ef8412.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · HACKER] Deal 2 *MF damage to target player. + Draw 1.</text>
+    </card>
+    <card>
+      <name>SYNTHETIX</name>
+      <set rarity="common" num="237" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/13bedd76-c98b-4508-a6d0-15eb4afe3f86/89d1c8c795c6fd27f495ce6d2749e9d820d60692fa2560e4b6c6b75b2ecec7c8.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · CYBERNETIC] +1/+1 for each cyberware attached to them. Instead, +2/+1 for each cyberware attached to them.</text>
+    </card>
+    <card>
+      <name>GEARHEAD</name>
+      <set rarity="common" num="238" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/92382274-bc7b-4073-823c-71288136889b/42ef6bfe5fd98202ae77df48fd2a87cd863b887b87cf60e40daae879bd719599.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · CYBERNETIC] -5 PSYCHOSIS. Instead, -10 PSYCHOSIS.</text>
+    </card>
+    <card>
+      <name>A-Z LUXUREON</name>
+      <set rarity="common" num="239" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/b5d8de27-032f-4098-aebf-f1f9f132a504/77cebebe4c4c611e5e00fa9979447f1839b9653e32f6ed3d5bbeabbe4cf47bea.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · CORPO] Your *RAM comes into play refreshed. + / On your SYSTEM CHECK, install 1 *RAM refreshed.</text>
+    </card>
+    <card>
+      <name>OMNIS BLOOD DIAMOND</name>
+      <set rarity="common" num="240" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/e11563cf-93d4-4fde-8b6e-eb2ddc6c9a67/fe202f266d483db187e5f4bd95746b2355698aa34fd6b12e007a582d1d4f7b26.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · CORPO] You lose 1 *MF and 1 *BF health. Install 1 *RAM running. Instead, you lose 2 *MF and 2 *BF. Install 2 *RAM refreshed.</text>
+    </card>
+    <card>
+      <name>COYOTE</name>
+      <set rarity="common" num="241" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/6fb303c7-228b-4ab5-8d46-7c0a54383249/e2126775dcef8e26d5673df0dc8c3fc2a47af4e349c15ae6b38607577efecc69.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · DUSTRUNNER] When you a play a tether, draw 1. + / When you play a *DUSTRUNNER character, draw 1.</text>
+    </card>
+    <card>
+      <name>SIDEWINDER</name>
+      <set rarity="common" num="242" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/e908ee06-b2c9-496d-92de-6a33d9bdce41/5ef854220924c3f2f724837684435006d6bc0c74d4420fdc24558433cd694cd5.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · DUSTRUNNER] MIRAGE (When character is targeted by an opponent, you may put it into its owner’s hand.) + They can only be blocked by 2 or more characters.</text>
+    </card>
+    <card>
+      <name>RADIANT</name>
+      <set rarity="common" num="243" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/7bdc7769-a438-4673-b57f-2cf3e63ef089/c5493716dd17b9f600337c02c7280b6a2ba22e17f8c596c87b46a8ef7504b386.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · MYSTIC] When you play a tarot, look at the top card of your cyberdeck. You may bin it. + / You may play tarots reversed.</text>
+    </card>
+    <card>
+      <name>ECLIPSE</name>
+      <set rarity="common" num="244" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/3cf9d4b3-af11-486c-bf84-bbaf44e0da5c/acd0a3b21652f06ea87ac86c6fd1d94e26b673010c6960d5a777dbf18a5113d3.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · MYSTIC] When you play a tarot, create a *MF 0/1 Dreamwalker token character. + / All Dreamwalker tokens get +1/+1.</text>
+    </card>
+    <card>
+      <name>HEADBANGER</name>
+      <set rarity="common" num="245" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/97ffdf87-fa27-47c4-86f6-57af2949112f/8e42a8a39ce8d7554c29b6b8c0f93f4a1db9a2b8ff28b175deb8f33bd47c2279.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · THRASHER] +1/+1 until turn end. Instead, +2/+2 until turn end.</text>
+    </card>
+    <card>
+      <name>BERSERKER</name>
+      <set rarity="common" num="246" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/d00cc1f9-9d37-401e-b849-26c44556b426/e6648a65d86646d5f3d6cc656b9648c171de6604353a685058ab63aa808a7282.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · THRASHER] +1/+0 until turn end. + OVERRUN until turn end. (Character deals excess damage to defending player when blocked.)</text>
+    </card>
+    <card>
+      <name>MELTDOWN</name>
+      <set rarity="uncommon" num="247" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/3704a664-9f2b-4a3d-95c6-8880667c17f7/8551f9c8fbd790f86106f2a9452389a74b002783958fea462985638752b89787.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · HACKER / DUSTRUNNER] Put a +1/+1 counter on target character. Instead, put two +1/+1 counters on target character.</text>
+    </card>
+    <card>
+      <name>NEXUS</name>
+      <set rarity="uncommon" num="248" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/7a39c706-0354-4d96-9b3a-4caba5749648/1a3b99072bf952549e51befc3a73253b72f996e094a39b2a62bef5b7522af23c.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · CYBERNETIC / CORPO] +1/+1 until turn end. Instead, +2/+2 until turn end.</text>
+    </card>
+    <card>
+      <name>AURORA</name>
+      <set rarity="uncommon" num="249" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/3c7cb6c0-bb3b-42a0-8ff1-3b83f5d0f4dd/ebc553eb9f8f8fb49d14b3568a48a924f5bd825816f414d842f0fcbcd9293094.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · MYSTIC / DUSTRUNNER] DIVINE 2 (Look at the top 2 cards of your cyberdeck. Put 1 into your hand, then bin the other.) Instead, DIVINE 2 for each blocked *MYSTIC or *DUSTRUNNER.</text>
+    </card>
+    <card>
+      <name>SAVAGE</name>
+      <set rarity="uncommon" num="250" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/e55ec40d-cf40-49b9-97e2-086dfe8a02f6/11e483fbc4e9a641ca833e9c42c6ff0c39148a9ceb237ee25c34ba52d972893f.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · THRASHER / CYBERNETIC] Characters you control with *CYBERNETIC gear get STAMINA. + / Characters you control with *THRASHER gear get FEEDBACK.</text>
+    </card>
+    <card>
+      <name>SPOTLIGHT</name>
+      <set rarity="uncommon" num="251" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/be912031-0354-45e1-8e64-5569c0ce77be/69f06d162abdead3db2f18bb5fc8e70209633d751d8e22e5fc0167ec6a2d152a.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · THRASHER / CORPO] Once per turn, install 1 *RAM running. Instead, install 1 *RAM running.</text>
+    </card>
+    <card>
+      <name>AETHERNET</name>
+      <set rarity="uncommon" num="252" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/bf0b42ac-a675-4cc2-bb29-649f19fa2820/2df93719cfd3dae96bfc9c5aab4f7898d768b44f40fc546c61f142939d196b72.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · HACKER / MYSTIC] For double their cost. As they resolve, purge them. Instead, for their base cost. As they resolve, purge them.</text>
+    </card>
+    <card>
+      <name>HIVE DYNAMICS</name>
+      <set rarity="rare" num="253" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/d489e59f-f9ca-49ac-98ed-0e66ff3262a9/f7735ead6d7d3f7d141871afd304f5f715c25751b28d201034595d0752459d82.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · NANOBOT] When 1 or more non-token *NANOBOT characters you control are destroyed by an opponent, create a *BF 1/1 *NANOBOT Drone token character. + / All *NANOBOT characters you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>WNDRTECH</name>
+      <set rarity="rare" num="254" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/ba3eb1a7-24fe-4f14-ac1a-c82eaaf95688/65169f5d735ecd0ab308f1011fb96953987459a0ff9c8aa092f1c74d182a31e7.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Mainframe</type>
+        <maintype>Mainframe</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>[mainframe · WONDERLAND] 0/1 Pawn token character with *MF or *BF attack. Or 3/3 Bishop token character with *MF or *BF attack.</text>
+    </card>
+    <card>
+      <name>Basic Ram</name>
+      <set rarity="common" num="255" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/61045c1b-73b0-46f2-8cc0-4c379c5d31e4/e6c973368f32787253e71cbbbcc1ba457e16fc1b6f411a67875c64e3818ff943.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>RAM</type>
+        <maintype>RAM</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>[ram ·]</text>
+    </card>
+    <card>
+      <name>TERRY, THE ACCOUNTANT</name>
+      <set rarity="quantum rare" num="256" picurl="https://ynwugxwbbeptntbzqdgm.supabase.co/storage/v1/object/public/card-art/ff3b06ca-3429-46af-b4c9-a29223c6019a/0f1126dca5d0ebedfca21c418d962cedae26fd8e03b86109bea35906a3756606.webp">NSCP</set>
+      <prop>
+        <colors />
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Character</type>
+        <maintype>Character</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[character · CORPO] Terry, the Accountant is immune to PSYCHOSIS. Swipe Terry, the Accountant across the arena like a credit card. Attach target gear to him.</text>
+    </card>
+  </cards>
+</cockatrice_carddatabase>
